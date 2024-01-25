@@ -1,7 +1,7 @@
 ---
 name: Susanna Chan
 image: images/Susanna.jpeg
-description: staff
+description: Assistant Production Coordinator
 role: staff
 links:
   email: schan@bcgsc.ca

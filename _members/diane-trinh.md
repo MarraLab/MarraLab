@@ -1,7 +1,7 @@
 ---
 name: Diane Trinh
 image: images/Diane.jpeg
-description: staff
+description: Staff Scientist
 role: staff
 links:
   email: dtrinh@bcgsc.ca
