@@ -3,8 +3,11 @@ name: Dr. Marco Marra, PhD, FRS(C), FCAHS, OBC
 image: images/Marco_stash.png
 role: pi
 aliases:
+  - M.A. Marra
+  - MA. Marra
   - M. Marra
   - M Marra
+  - MA Marra
 links:
   home-page: https://www.bcgsc.ca/people/marco-marra
   email: mmarra@bcgsc.ca
