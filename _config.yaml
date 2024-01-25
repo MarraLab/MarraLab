@@ -1,9 +1,11 @@
 # site properties and page defaults
-title: MATCH
+title: MATCH Lab
 subtitle: The Michael Smith Laboratories, UBC
 description: Multiomic Analysis of Treatment Resistance and Cancer Heterogeneity
 header: images/MATCH_logo.png
 footer: images/background.jpg
+header-dark: false
+footer-dark: true
 
 # site social media and other links
 links:
