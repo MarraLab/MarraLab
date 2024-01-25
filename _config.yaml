@@ -1,18 +1,17 @@
 # site properties and page defaults
-title: MarraLab
+title: MATCH
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
-header: images/background.jpg
+description: Multiomic Analysis of Treatment Resistance and Cancer Heterogeneity
+header: images/MATCH_logo.png
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@MarraLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: mmarra@bcgsc.ca
+  orcid: 0000-0001-7146-7175
+  google-scholar: 24w4w9AAAAAJ
   github: MarraLab
-  twitter: MarraLab
-  youtube: MarraLab
+  twitter: mmarra0630
 
 ### jekyll settings
 
