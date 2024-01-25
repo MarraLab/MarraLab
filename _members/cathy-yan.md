@@ -1,0 +1,10 @@
+---
+name: Cathy Yan
+image: images/Cathy.png
+description: PhD Candidate
+role: phd
+links:
+  email: cyan@bcgsc.ca
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
