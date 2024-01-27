@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/Cancer_cell_cover_2022.png"
+  image="images/journal_covers-01.png"
   link="research"
   title="Our Research"
   text=text
