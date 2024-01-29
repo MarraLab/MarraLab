@@ -1,7 +1,6 @@
 - id: doi:10.1016/j.ccell.2023.10.008
   type: paper
   description: Testing.
-  date: 2023-11-16
   image: https://www.cell.com/cms/attachment/34df0d4d-b3c4-459a-8a9e-b390a7a7e450/fx1.jpg
   buttons:
     - type: source
@@ -11,6 +10,3 @@
     - pAML
     - scRNA-seq
     - scATAC-seq
-
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
