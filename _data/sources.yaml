@@ -1,6 +1,6 @@
 - id: doi:10.1016/j.ccell.2023.10.008
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: Testing.
   date: 2023-11-16
   image: https://www.cell.com/cms/attachment/34df0d4d-b3c4-459a-8a9e-b390a7a7e450/fx1.jpg
   buttons:
@@ -14,6 +14,3 @@
 
 - id: doi:10.1016/j.csbj.2020.05.017
   image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
