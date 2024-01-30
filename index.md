@@ -75,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Meet the MATCH team members who drives our vision and reserach.
+Meet the MATCH team members who drive our vision and reserach.
 
 {%
   include button.html
