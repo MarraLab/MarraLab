@@ -4,12 +4,15 @@
 # Multiomic Analysis of Treatment Resistance and Cancer Heterogeneity (**MATCH**) Lab
 
 **Our Vision**
-The Marra Lab is composed of students, post-doctoral fellows, biologists and informaticians who are collectively motivated by a vision in which the power of genome analysis is leveraged to identify cancer cell vulnerabilities that can be actioned to improve outcomes for cancer patients. The Lab intends to identify and rationalize therapeutic targets and transmit this information into research and health care settings at scale, thereby influencing treatment planning and improving outcomes for the benefit of cancer patients, their loved ones and society as a whole.
+
+The MATCH Lab is composed of students, post-doctoral fellows, biologists and informaticians who are collectively motivated by a vision in which the power of genome analysis is leveraged to identify cancer cell vulnerabilities that can be actioned to improve outcomes for cancer patients. We intend to identify and rationalize therapeutic targets and transmit this information into research and health care settings at scale, thereby influencing treatment planning and improving outcomes for the benefit of cancer patients, their loved ones and society as a whole.
 
 **Research Area:**
-The Marra lab has positioned itself as a nexus of technology development, cancer genome science and personalized cancer genomic medicine to deliver new discoveries capable of shifting cancer research and treatment paradigms and revealing new, more effective ways to treat cancer. The Lab does this by engaging in research projects that have the potential to influence clinical paradigms and eventually lead to the creation of new treatment options for cancer patients. 
 
-**Example Research Projects:**
+The MATCH lab has positioned itself as a nexus of technology development, cancer genome science and personalized cancer genomic medicine to deliver new discoveries capable of shifting cancer research and treatment paradigms and revealing new, more effective ways to treat cancer. We do this by engaging in research projects that have the potential to influence clinical paradigms and eventually lead to the creation of new treatment options for cancer patients. 
+
+## Example Research Projects:
+
 1. Single-cell Multi-omic Analyses To Identify And Characterize Cell Populations In Patients With Primary And Relapsed Pediatric Acute Myeloid Leukemia.
 2. Single-cell multi-omics analysis of primary/recurrent GBM pairs and matched organoid models to investigate mechanisms of treatment resistance.
 3. HPV- and EBV-associated genomic, transcriptomic and epigenomic dysregulation in cancer.
