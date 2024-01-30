@@ -1,17 +1,25 @@
 ---
 ---
 
-# Multiomic Analysis of Treatment Resistance and Cancer Heterogeneity (MATCH) Lab
+# Multiomic Analysis of Treatment Resistance and Cancer Heterogeneity (**MATCH**) Lab
+
+**Our Vision**
+
+The MATCH Lab is composed of students, post-doctoral fellows, biologists and informaticians who are collectively motivated by a vision in which the power of genome analysis is leveraged to identify cancer cell vulnerabilities that can be actioned to improve outcomes for cancer patients. We intend to identify and rationalize therapeutic targets and transmit this information into research and health care settings at scale, thereby influencing treatment planning and improving outcomes for the benefit of cancer patients, their loved ones and society as a whole.
 
 **Research Area:**
 
-The overarching ambition of our research is to understand how the dysregulation of genomes and epigenomes promotes diseases, particularly cancer. We use genomics, bioinformatics, genetics and cell biology to help understand the selective advantages conferred to cancer cells as a consequence of dysregulation of genomes, transcriptomes and epigenomes, and aim to reveal insights that can be translated for the benefit of cancer patients. One major research theme revolves around developing genomic and bioinformatic technologies of potential relance to cancer medicine. We perform genomic analyses of cancer patient samples to guide treatment decision-making, and in this regard are particularly interested in the potential of single cell multi-omics and long read sequencing. The second major theme involves exploring the interplay between the epigenome and the genome. We and others have noted the strikingly high frequency of mutations in transcriptional regulators, especially chromatin modifiers, as candidate cancer driver alterations. This observation indicates that the interplay between the genome and the epigenome can be exploited by cancer cells, but exactly how and the extent to which important new treatment insights may emerge from this insight require elucidation.
+The MATCH lab has positioned itself as a nexus of technology development, cancer genome science and personalized cancer genomic medicine to deliver new discoveries capable of shifting cancer research and treatment paradigms and revealing new, more effective ways to treat cancer. We do this by engaging in research projects that have the potential to influence clinical paradigms and eventually lead to the creation of new treatment options for cancer patients. 
 
-**Research Questions:**
-1. What are the cancer drivers?
-2. Of what significance is the interplay between the genome and the epigenome in cancer?
-3. How do patterns of ‘omic dysregulation change with cancer treatment and during the evolution of treatment resistant disease?
-4. What is the potential of genomic technologies to inform cancer treatment decision-making?
+## Example Research Projects:
+
+1. Single-cell Multi-omic Analyses To Identify And Characterize Cell Populations In Patients With Primary And Relapsed Pediatric Acute Myeloid Leukemia.
+2. Single-cell multi-omics analysis of primary/recurrent GBM pairs and matched organoid models to investigate mechanisms of treatment resistance.
+3. HPV- and EBV-associated genomic, transcriptomic and epigenomic dysregulation in cancer.
+4. Effect of HPV integration on 3D genome structure and function in cervical cancer.
+5. Pan-cancer analysis of extrachromosomal DNA structure and regulation.
+6. The Personalized Approaches in the Treatment of Head and Neck Cancers (PATH) study.
+7. Single nucleus multi-omics for precision cancer genomic medicine. 
 
 {% include section.html %}
 
@@ -19,7 +27,7 @@ The overarching ambition of our research is to understand how the dysregulation 
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+See our latest pre-prints and publications from our lab and collaborations. 
 
 {%
   include button.html
@@ -34,7 +42,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/journal_covers-01.png"
+  image="images/Cancer_cell_cover_2022.png"
   link="research"
   title="Our Research"
   text=text
@@ -67,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Meet the MATCH team members who drives our vision and reserach.
 
 {%
   include button.html
