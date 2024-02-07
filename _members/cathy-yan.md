@@ -1,6 +1,6 @@
 ---
 name: Cathy Yan
-image: images/Cathy.png
+image: images/headshot_Cathy.png
 description: PhD Candidate
 role: phd
 links:

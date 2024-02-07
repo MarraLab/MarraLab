@@ -1,6 +1,6 @@
 ---
 name: Diane Trinh
-image: images/Diane.jpeg
+image: images/headshot_Diane.png
 description: Staff Scientist
 role: staff
 links:

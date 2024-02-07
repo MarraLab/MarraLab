@@ -1,6 +1,6 @@
 ---
 name: Vanessa Porter
-image: images/Vanessa.jpeg
+image: images/headshot_Vanessa.jpeg
 description: PhD Candidate
 role: phd
 links:

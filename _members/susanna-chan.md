@@ -1,6 +1,6 @@
 ---
 name: Susanna Chan
-image: images/Susanna.jpeg
+image: images/headshot_Susanna.png
 description: Assistant Production Coordinator
 role: staff
 links:

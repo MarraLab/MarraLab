@@ -1,6 +1,6 @@
 ---
 name: Dr. Marco Marra, PhD, FRS(C), FCAHS, OBC
-image: images/Marco-01.png 
+image: images/headshot_Marco.png 
 role: pi
 aliases:
   - M.A. Marra

@@ -1,6 +1,6 @@
 ---
 name: Signe Maclennan
-image: images/Signe.JPG
+image: images/headshot_Signe.png
 description: PhD Candidate
 role: phd
 links:

@@ -1,6 +1,6 @@
 ---
 name: Melanie
-image: images/Melanie.jpeg
+image: images/headshot_Melanie.png
 description: Research Associate
 role: ra
 links:
