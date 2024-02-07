@@ -1,6 +1,6 @@
 ---
 name: Dan Jin
-image: images/Dan.jpeg
+image: images/headshot_Dan.jpeg
 description: Research Associate
 role: ra
 links:

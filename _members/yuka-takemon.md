@@ -1,6 +1,6 @@
 ---
 name: Yuka Takemon
-image: images/Yuka.jpeg
+image: images/headshot_Yuka.png
 description: PhD Candidate
 role: phd
 links:
