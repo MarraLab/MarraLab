@@ -1,51 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2024.01.17.575929
-  title: Mapping<i>in silico</i>genetic networks of the<i>KMT2D</i>tumour suppressor
-    gene to uncover novel functional associations and cancer cell vulnerabilities
-  authors:
-  - Yuka Takemon
-  - Erin D. Pleasance
-  - Alessia Gagliardi
-  - Christopher S. Hughes
-  - Veronika Csizmok
-  - Kathleen Wee
-  - Diane L. Trinh
-  - Ryan D. Huff
-  - Andrew J. Mungall
-  - Richard A. Moore
-  - Eric Chuah
-  - Karen L. Mungall
-  - Eleanor Lewis
-  - Jessica Nelson
-  - Howard J. Lim
-  - Daniel J. Renouf
-  - Steven JM. Jones
-  - Janessa Laskin
-  - Marco A. Marra
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-01-20'
-  link: https://doi.org/gtf2cw
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.09.11.555771
-  title: 'IMPALA: A Comprehensive Pipeline for Detecting and Elucidating Mechanisms
-    of Allele Specific Expression in Cancer'
-  authors:
-  - Glenn Chang
-  - Vanessa L. Porter
-  - "Kieran O\u2019Neill"
-  - Luka Culibrk
-  - Vahid Akbari
-  - Marco A. Marra
-  - Steven J. M. Jones
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-09-12'
-  link: https://doi.org/gtf2cx
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/bioinformatics/btad381
   title: 'GRETTA: an R package for mapping <i>in silico</i> genetic interaction and
     essentiality networks'
@@ -138,18 +92,6 @@
   publisher: Cancers
   date: '2022-09-23'
   link: https://doi.org/gq8d46
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2022.09.21.508787
-  title: 'GRETA: an R package for mapping <i>in silico</i> genetic interaction and
-    essentiality networks'
-  authors:
-  - Yuka Takemon
-  - Marco A. Marra
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-09-22'
-  link: https://doi.org/gszj7z
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
@@ -336,148 +278,6 @@
   publisher: Melanoma Research
   date: '2022-06-17'
   link: https://doi.org/gtf2c7
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/S41586-022-05215-W
-  title: Failure of human rhombic lip differentiation underlies medulloblastoma formation
-  authors:
-  - Liam D. Hendrikse
-  - Parthiv Haldipur
-  - Olivier Saulnier
-  - Jake Millman
-  - Alexandria H. Sjoboen
-  - Anders W. Erickson
-  - Winnie Ong
-  - Victor Gordon
-  - "Ludivine Coudi\xE8re-Morrison"
-  - Audrey L. Mercier
-  - Mohammad Shokouhian
-  - "Ra\xFAl A. Su\xE1rez"
-  - Michelle Ly
-  - Stephanie Borlase
-  - David S. Scott
-  - Maria C. Vladoiu
-  - Hamza Farooq
-  - Olga Sirbu
-  - Takuma Nakashima
-  - Shohei Nambu
-  - Yusuke Funakoshi
-  - Alec Bahcheli
-  - J. Javier Diaz-Mejia
-  - Joseph Golser
-  - Kathleen Bach
-  - Tram Phuong-Bao
-  - Patryk Skowron
-  - Evan Y. Wang
-  - Sachin A. Kumar
-  - Polina Balin
-  - Abhirami Visvanathan
-  - John J. Y. Lee
-  - Ramy Ayoub
-  - Xin Chen
-  - Xiaodi Chen
-  - Karen L. Mungall
-  - Betty Luu
-  - "Pierre B\xE9rub\xE9"
-  - Yu C. Wang
-  - Stefan M. Pfister
-  - Seung-Ki Kim
-  - Olivier Delattre
-  - Franck Bourdeaut
-  - "Fran\xE7ois Doz"
-  - Julien Masliah-Planchon
-  - Wieslawa A. Grajkowska
-  - James Loukides
-  - Peter Dirks
-  - "Michelle F\xE8vre-Montange"
-  - Anne Jouvet
-  - Pim J. French
-  - Johan M. Kros
-  - Karel Zitterbart
-  - Swneke D. Bailey
-  - Charles G. Eberhart
-  - Amulya A. N. Rao
-  - Caterina Giannini
-  - James M. Olson
-  - "Mikl\xF3s Garami"
-  - Peter Hauser
-  - Joanna J. Phillips
-  - Young S. Ra
-  - Carmen de Torres
-  - Jaume Mora
-  - Kay K. W. Li
-  - Ho-Keung Ng
-  - Wai S. Poon
-  - Ian F. Pollack
-  - "Enrique L\xF3pez-Aguilar"
-  - G. Yancey Gillespie
-  - Timothy E. Van Meter
-  - Tomoko Shofuda
-  - Rajeev Vibhakar
-  - Reid C. Thompson
-  - Michael K. Cooper
-  - Joshua B. Rubin
-  - Toshihiro Kumabe
-  - Shin Jung
-  - Boleslaw Lach
-  - Achille Iolascon
-  - Veronica Ferrucci
-  - Pasqualino de Antonellis
-  - Massimo Zollo
-  - Giuseppe Cinalli
-  - Shenandoah Robinson
-  - Duncan S. Stearns
-  - Erwin G. Van Meir
-  - Paola Porrati
-  - Gaetano Finocchiaro
-  - Maura Massimino
-  - Carlos G. Carlotti
-  - Claudia C. Faria
-  - Martine F. Roussel
-  - Frederick Boop
-  - Jennifer A. Chan
-  - Kimberly A. Aldinger
-  - Ferechte Razavi
-  - Evelina Silvestri
-  - Roger E. McLendon
-  - Eric M. Thompson
-  - Marc Ansari
-  - Maria L. Garre
-  - Fernando Chico
-  - "Pilar Egu\xEDa"
-  - "Mario P\xE9rezpe\xF1a"
-  - A. Sorana Morrissy
-  - Florence M. G. Cavalli
-  - Xiaochong Wu
-  - Craig Daniels
-  - Jeremy N. Rich
-  - Steven J. M. Jones
-  - Richard A. Moore
-  - Marco A. Marra
-  - Xi Huang
-  - "J\xFCri Reimand"
-  - Poul H. Sorensen
-  - Robert J. Wechsler-Reya
-  - William A. Weiss
-  - Trevor J. Pugh
-  - Livia Garzia
-  - Claudia L. Kleinman
-  - Lincoln D. Stein
-  - Nada Jabado
-  - David Malkin
-  - Olivier Ayrault
-  - Jeffrey A. Golden
-  - David W. Ellison
-  - Brad Doble
-  - Vijay Ramaswamy
-  - Tamra E. Werbowetski-Ogilvie
-  - Hiromichi Suzuki
-  - Kathleen J. Millen
-  - Michael D. Taylor
-  publisher: Nature
-  date: '2022-09-21'
-  link: https://doi.org/gqwjtq
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
@@ -672,15 +472,6 @@
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
-- id: wosuid:WOS:000859203900154
-  title: IDENTIFYING MECHANISMS OF RESISTANCE IN PEDIATRIC PATIENTS WITH ACUTE MYELOID
-    LEUKEMIA USING COMPREHENSIVE LONGITUDINAL SINGLE CELL PROFILING
-  publisher: Pediatric Blood and Cancer
-  date: '2024-01-27'
-  link: https://publons.com/wos-op/publon/55692100/
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1038/S41467-022-33718-7
   title: Integrative analysis of KRAS wildtype metastatic pancreatic ductal adenocarcinoma
     reveals mutation and expression-based similarities to cholangiocarcinoma
@@ -720,44 +511,6 @@
   publisher: Nature Communications
   date: '2022-10-08'
   link: https://doi.org/gq85sx
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1200/JCO.2022.40.4_SUPPL.587
-  title: Integrative analysis of <i>KRAS</i>-wildtype pancreatic ductal adenocarcinoma
-    reveals unique similarities to extrahepatic cholangiocarcinoma.
-  authors:
-  - Erica S Tsang
-  - James T. Topham
-  - Joanna Karasinska
-  - Steve Kalloger
-  - Veronika Csizmok
-  - Laura Williamson
-  - Hui-Li Wong
-  - Grainne M. O'Kane
-  - Jonathan M. Loree
-  - Faiyaz Notta
-  - Oliver F. Bathe
-  - Patricia A. Tang
-  - Rachel Anne Goodwin
-  - Jennifer J. Knox
-  - Steven Gallinger
-  - Janessa J. Laskin
-  - Marco A. Marra
-  - Steven J. M. Jones
-  - David F. Schaeffer
-  - Daniel John Renouf
-  publisher: Journal of Clinical Oncology
-  date: '2022-02-01'
-  link: https://doi.org/gtf2c9
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: wosuid:WOS:000863680303845
-  title: Life-cycle health technology assessment for precision oncology
-  publisher: Journal of Clinical Oncology
-  date: '2024-01-27'
-  link: https://publons.com/wos-op/publon/55692102/
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
@@ -1880,6 +1633,73 @@
   publisher: Journal of Experimental Medicine
   date: '2019-12-05'
   link: https://doi.org/gtf2dx
+  orcid: 0000-0001-7146-7175
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/S41591-020-0757-Z
+  title: TMEM30A loss-of-function mutations drive lymphomagenesis and confer therapeutically
+    exploitable vulnerability in B-cell lymphoma
+  authors:
+  - Daisuke Ennishi
+  - Shannon Healy
+  - Ali Bashashati
+  - Saeed Saberi
+  - Christoffer Hother
+  - Anja Mottok
+  - Fong Chun Chan
+  - Lauren Chong
+  - Libin Abraham
+  - Robert Kridel
+  - Merrill Boyle
+  - Barbara Meissner
+  - Tomohiro Aoki
+  - Katsuyoshi Takata
+  - Bruce W. Woolcock
+  - "Elena Vigan\xF2"
+  - Michael Gold
+  - Laurie L. Molday
+  - Robert S. Molday
+  - Adele Telenius
+  - Michael Y. Li
+  - Nicole Wretham
+  - Nancy Dos Santos
+  - Mark Wong
+  - Natasja N. Viller
+  - Robert A. Uger
+  - Gerben Duns
+  - Abigail Baticados
+  - Angel Madero
+  - Brianna N. Bristow
+  - Pedro Farinha
+  - Graham W. Slack
+  - Susana Ben-Neriah
+  - Daniel Lai
+  - Allen W. Zhang
+  - Sohrab Salehi
+  - Hennady P. Shulha
+  - Derek S. Chiu
+  - Sara Mostafavi
+  - Alina S. Gerrie
+  - Da Wei Huang
+  - Christopher Rushton
+  - Diego Villa
+  - Laurie H. Sehn
+  - Kerry J. Savage
+  - Andrew J. Mungall
+  - Andrew P. Weng
+  - Marcel B. Bally
+  - Ryan D. Morin
+  - Gabriela V. Cohen Freue
+  - Louis M. Staudt
+  - Joseph M. Connors
+  - Marco A. Marra
+  - Sohrab P. Shah
+  - Randy D. Gascoyne
+  - David W. Scott
+  - Christian Steidl
+  publisher: Nature Medicine
+  date: '2020-02-24'
+  link: https://doi.org/gtf2d8
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
@@ -6570,73 +6390,6 @@
   publisher: Nature Communications
   date: '2020-08-28'
   link: https://doi.org/gjddnz
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1038/S41591-020-0757-Z
-  title: TMEM30A loss-of-function mutations drive lymphomagenesis and confer therapeutically
-    exploitable vulnerability in B-cell lymphoma
-  authors:
-  - Daisuke Ennishi
-  - Shannon Healy
-  - Ali Bashashati
-  - Saeed Saberi
-  - Christoffer Hother
-  - Anja Mottok
-  - Fong Chun Chan
-  - Lauren Chong
-  - Libin Abraham
-  - Robert Kridel
-  - Merrill Boyle
-  - Barbara Meissner
-  - Tomohiro Aoki
-  - Katsuyoshi Takata
-  - Bruce W. Woolcock
-  - "Elena Vigan\xF2"
-  - Michael Gold
-  - Laurie L. Molday
-  - Robert S. Molday
-  - Adele Telenius
-  - Michael Y. Li
-  - Nicole Wretham
-  - Nancy Dos Santos
-  - Mark Wong
-  - Natasja N. Viller
-  - Robert A. Uger
-  - Gerben Duns
-  - Abigail Baticados
-  - Angel Madero
-  - Brianna N. Bristow
-  - Pedro Farinha
-  - Graham W. Slack
-  - Susana Ben-Neriah
-  - Daniel Lai
-  - Allen W. Zhang
-  - Sohrab Salehi
-  - Hennady P. Shulha
-  - Derek S. Chiu
-  - Sara Mostafavi
-  - Alina S. Gerrie
-  - Da Wei Huang
-  - Christopher Rushton
-  - Diego Villa
-  - Laurie H. Sehn
-  - Kerry J. Savage
-  - Andrew J. Mungall
-  - Andrew P. Weng
-  - Marcel B. Bally
-  - Ryan D. Morin
-  - Gabriela V. Cohen Freue
-  - Louis M. Staudt
-  - Joseph M. Connors
-  - Marco A. Marra
-  - Sohrab P. Shah
-  - Randy D. Gascoyne
-  - David W. Scott
-  - Christian Steidl
-  publisher: Nature Medicine
-  date: '2020-02-24'
-  link: https://doi.org/gtf2d8
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
@@ -31611,9 +31364,6 @@
   - Matthew Meyerson
   - Gordon B. Mills
   - David J. McConkey
-  - John N. Weinstein
-  - David J. Kwiatkowski
-  - Seth P. Lerner
   - Rehan Akbani
   - Hikmat Al-Ahmadie
   - Monique Albert
@@ -31785,6 +31535,9 @@
   - Jiexin Zhang
   - Erik Zmuda
   - Ellen C. Zwarthoff
+  - John N. Weinstein
+  - David J. Kwiatkowski
+  - Seth P. Lerner
   publisher: Cell
   date: '2017-10-01'
   link: https://doi.org/gchdrn
@@ -42015,8 +41768,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/GR.4871006
-  title: Sequencing and analysis of 10,967 full-length cDNA clones from <i>Xenopus
-    laevis</i> and <i>Xenopus tropicalis</i> reveals post-tetraploidization transcriptome
+  title: Sequencing and analysis of 10,967 full-length cDNA clones from<i>Xenopus
+    laevis</i>and<i>Xenopus tropicalis</i>reveals post-tetraploidization transcriptome
     remodeling
   authors:
   - Ryan D. Morin
