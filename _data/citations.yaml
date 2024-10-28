@@ -281,149 +281,6 @@
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1038/S41586-022-05578-0
-  title: 'Author Correction: Failure of human rhombic lip differentiation underlies
-    medulloblastoma formation'
-  authors:
-  - Liam D. Hendrikse
-  - Parthiv Haldipur
-  - Olivier Saulnier
-  - Jake Millman
-  - Alexandria H. Sjoboen
-  - Anders W. Erickson
-  - Winnie Ong
-  - Victor Gordon
-  - "Ludivine Coudi\xE8re-Morrison"
-  - Audrey L. Mercier
-  - Mohammad Shokouhian
-  - "Ra\xFAl A. Su\xE1rez"
-  - Michelle Ly
-  - Stephanie Borlase
-  - David S. Scott
-  - Maria C. Vladoiu
-  - Hamza Farooq
-  - Olga Sirbu
-  - Takuma Nakashima
-  - Shohei Nambu
-  - Yusuke Funakoshi
-  - Alec Bahcheli
-  - J. Javier Diaz-Mejia
-  - Joseph Golser
-  - Kathleen Bach
-  - Tram Phuong-Bao
-  - Patryk Skowron
-  - Evan Y. Wang
-  - Sachin A. Kumar
-  - Polina Balin
-  - Abhirami Visvanathan
-  - John J. Y. Lee
-  - Ramy Ayoub
-  - Xin Chen
-  - Xiaodi Chen
-  - Karen L. Mungall
-  - Betty Luu
-  - "Pierre B\xE9rub\xE9"
-  - Yu C. Wang
-  - Stefan M. Pfister
-  - Seung-Ki Kim
-  - Olivier Delattre
-  - Franck Bourdeaut
-  - "Fran\xE7ois Doz"
-  - Julien Masliah-Planchon
-  - Wieslawa A. Grajkowska
-  - James Loukides
-  - Peter Dirks
-  - "Michelle F\xE8vre-Montange"
-  - Anne Jouvet
-  - Pim J. French
-  - Johan M. Kros
-  - Karel Zitterbart
-  - Swneke D. Bailey
-  - Charles G. Eberhart
-  - Amulya A. N. Rao
-  - Caterina Giannini
-  - James M. Olson
-  - "Mikl\xF3s Garami"
-  - Peter Hauser
-  - Joanna J. Phillips
-  - Young S. Ra
-  - Carmen de Torres
-  - Jaume Mora
-  - Kay K. W. Li
-  - Ho-Keung Ng
-  - Wai S. Poon
-  - Ian F. Pollack
-  - "Enrique L\xF3pez-Aguilar"
-  - G. Yancey Gillespie
-  - Timothy E. Van Meter
-  - Tomoko Shofuda
-  - Rajeev Vibhakar
-  - Reid C. Thompson
-  - Michael K. Cooper
-  - Joshua B. Rubin
-  - Toshihiro Kumabe
-  - Shin Jung
-  - Boleslaw Lach
-  - Achille Iolascon
-  - Veronica Ferrucci
-  - Pasqualino de Antonellis
-  - Massimo Zollo
-  - Giuseppe Cinalli
-  - Shenandoah Robinson
-  - Duncan S. Stearns
-  - Erwin G. Van Meir
-  - Paola Porrati
-  - Gaetano Finocchiaro
-  - Maura Massimino
-  - Carlos G. Carlotti
-  - Claudia C. Faria
-  - Martine F. Roussel
-  - Frederick Boop
-  - Jennifer A. Chan
-  - Kimberly A. Aldinger
-  - Ferechte Razavi
-  - Evelina Silvestri
-  - Roger E. McLendon
-  - Eric M. Thompson
-  - Marc Ansari
-  - Maria L. Garre
-  - Fernando Chico
-  - "Pilar Egu\xEDa"
-  - "Mario P\xE9rezpe\xF1a"
-  - A. Sorana Morrissy
-  - Florence M. G. Cavalli
-  - Xiaochong Wu
-  - Craig Daniels
-  - Jeremy N. Rich
-  - Steven J. M. Jones
-  - Richard A. Moore
-  - Marco A. Marra
-  - Xi Huang
-  - "J\xFCri Reimand"
-  - Poul H. Sorensen
-  - Robert J. Wechsler-Reya
-  - William A. Weiss
-  - Trevor J. Pugh
-  - Livia Garzia
-  - Claudia L. Kleinman
-  - Lincoln D. Stein
-  - Nada Jabado
-  - David Malkin
-  - Olivier Ayrault
-  - Jeffrey A. Golden
-  - David W. Ellison
-  - Brad Doble
-  - Vijay Ramaswamy
-  - Tamra E. Werbowetski-Ogilvie
-  - Hiromichi Suzuki
-  - Kathleen J. Millen
-  - Michael D. Taylor
-  publisher: Nature
-  date: '2022-11-29'
-  link: https://doi.org/gtf2c8
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1016/S1470-2045(21)00703-8
   title: 'ICGC-ARGO precision medicine: familial matters in pancreatic cancer'
   authors:
@@ -511,6 +368,43 @@
   publisher: Nature Communications
   date: '2022-10-08'
   link: https://doi.org/gq85sx
+  orcid: 0000-0001-7146-7175
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/J.JVIROMET.2021.114339
+  title: Optimization of magnetic bead-based nucleic acid extraction for SARS-CoV-2
+    testing using readily available reagents
+  authors:
+  - Simon Haile
+  - Aidan M. Nikiforuk
+  - Pawan K. Pandoh
+  - David D.W. Twa
+  - Duane E. Smailus
+  - Jason Nguyen
+  - Stephen Pleasance
+  - Angus Wong
+  - Yongjun Zhao
+  - Diane Eisler
+  - Michelle Moksa
+  - Qi Cao
+  - Marcus Wong
+  - Edmund Su
+  - Martin Krzywinski
+  - Jessica Nelson
+  - Andrew J. Mungall
+  - Frankie Tsang
+  - Leah M. Prentice
+  - Agatha Jassem
+  - Amee R. Manges
+  - Steven J.M. Jones
+  - Robin J. Coope
+  - Natalie Prystajecky
+  - Marco A. Marra
+  - Mel Krajden
+  - Martin Hirst
+  publisher: Journal of Virological Methods
+  date: '2022-01-01'
+  link: https://doi.org/gtf2dv
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
@@ -993,55 +887,6 @@
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1182/BLOOD-2021-153162
-  title: Complex Structural Variation Associated with Enhancer Hijacking and Loss
-    of Tumor Suppressors in Mantle Cell Lymphoma
-  authors:
-  - Prasath Pararajalingam
-  - Laura K Hilton
-  - Krysta M. Coyle
-  - Kostiantyn Dreval
-  - Barbara Meissner
-  - Ari Melnick
-  - Marco A. Marra
-  - David W. Scott
-  - Ryan D Morin
-  publisher: Blood
-  date: '2021-11-05'
-  link: https://doi.org/gtf2dm
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1182/BLOOD-2021-153445
-  title: 'Constrained FL: A Genetically Distinct Subgroup of Follicular Lymphoma with
-    Low Rates of Somatic Hypermutation and a Reduced Propensity for Histologic Transformation'
-  authors:
-  - Laura K Hilton
-  - Kostiantyn Dreval
-  - Shaghayegh Soudi
-  - Susana Ben-Neriah
-  - Manuela Cruz
-  - Brett Collinge
-  - Krysta M. Coyle
-  - Bruno M. Grande
-  - Gerben Duns
-  - Christopher K Rushton
-  - Merrill Boyle
-  - Barbara Meissner
-  - Pedro Farinha
-  - Graham W Slack
-  - Andrew J. Mungall
-  - Marco A. Marra
-  - Joseph M. Connors
-  - Christian Steidl
-  - David W. Scott
-  - Ryan D Morin
-  publisher: Blood
-  date: '2021-11-05'
-  link: https://doi.org/gtf2dn
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1158/1078-0432.CCR-20-1042
   title: 'Delving into Early-onset Pancreatic Ductal Adenocarcinoma: How Does Age
     Fit In?'
@@ -1281,97 +1126,6 @@
   publisher: Clinical Case Reports
   date: '2021-02-10'
   link: https://doi.org/gtf2ds
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1182/BLOOD-2021-147916
-  title: Novel Genetic Subgroups Inform on Shared Pathobiology within Adult and Pediatric
-    Burkitt Lymphoma
-  authors:
-  - Nicole Thomas
-  - Kostiantyn Dreval
-  - Daniela S. Gerhard
-  - Laura K Hilton
-  - Jeremy S. Abramson
-  - Nancy L. Bartlett
-  - Jeffrey Bethony
-  - Jay Bowen
-  - Anthony Bryan
-  - Corey Casper
-  - Manuela Cruz
-  - Maureen Dyer
-  - Julie M Gastier-Foster
-  - Alina S. Gerrie
-  - Bruno M. Grande
-  - Timothy C. Greiner
-  - Nicholas B. Griner
-  - Thomas G. Gross
-  - Nancy Lee Harris
-  - John D. Irvin
-  - Elaine S. Jaffe
-  - Fabio Leal
-  - Jean Paul Martin
-  - Marie-Reine Martin
-  - Sam M. Mbulaiteye
-  - Charles G. Mullighan
-  - Andrew J. Mungall
-  - Karen Mungall
-  - Constance Namirembe
-  - Ariela Noy
-  - Martin Ogwang
-  - Jackson Orem
-  - German Ott
-  - Hilary Petrello
-  - Steven Reynolds
-  - Shaghayegh Soudi
-  - Steven H. Swerdlow
-  - Alexandra Traverse-Glehen
-  - Wyndham H. Wilson
-  - Jasper Wong
-  - Marco A. Marra
-  - Louis M. Staudt
-  - David W. Scott
-  - Ryan D Morin
-  publisher: Blood
-  date: '2021-11-05'
-  link: https://doi.org/gtf2dt
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/J.JVIROMET.2021.114339
-  title: Optimization of magnetic bead-based nucleic acid extraction for SARS-CoV-2
-    testing using readily available reagents
-  authors:
-  - Simon Haile
-  - Aidan M. Nikiforuk
-  - Pawan K. Pandoh
-  - David D.W. Twa
-  - Duane E. Smailus
-  - Jason Nguyen
-  - Stephen Pleasance
-  - Angus Wong
-  - Yongjun Zhao
-  - Diane Eisler
-  - Michelle Moksa
-  - Qi Cao
-  - Marcus Wong
-  - Edmund Su
-  - Martin Krzywinski
-  - Jessica Nelson
-  - Andrew J. Mungall
-  - Frankie Tsang
-  - Leah M. Prentice
-  - Agatha Jassem
-  - Amee R. Manges
-  - Steven J.M. Jones
-  - Robin J. Coope
-  - Natalie Prystajecky
-  - Marco A. Marra
-  - Mel Krajden
-  - Martin Hirst
-  publisher: Journal of Virological Methods
-  date: '2022-01-01'
-  link: https://doi.org/gtf2dv
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
@@ -1815,7 +1569,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2217/EPI-2019-0319
-  title: Epigenomic programming in early fetal brain development
+  title: Epigenomic Programming in Early Fetal Brain Development
   authors:
   - Luolan Li
   - Cecile L Maire
@@ -3482,54 +3236,6 @@
   publisher: Nature
   date: '2020-02-05'
   link: https://doi.org/ggkfng
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1007/S10637-020-00892-8
-  title: Patient selection for a developmental therapeutics program using whole genome
-    and Transcriptome analysis
-  authors:
-  - Jean-Michel Lavoie
-  - Teresa Mitchell
-  - Sung-Eun Lee
-  - Balvir Deol
-  - Stephen K. Chia
-  - Karen A. Gelmon
-  - Christian K. Kollmannsberger
-  - Anna V. Tinker
-  - Steven J. M. Jones
-  - Marco Marra
-  - Janessa Laskin
-  - Daniel J. Renouf
-  publisher: Investigational New Drugs
-  date: '2020-01-06'
-  link: https://doi.org/gtf2d6
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1158/1538-7445.PANCA20-PR-009
-  title: 'Abstract PR-009: Proteotranscriptomic classification and characterization
-    of pancreatic neuroendocrine neoplasms'
-  authors:
-  - Kevin C. Yang
-  - Steve Kalloger
-  - John Aird
-  - Michael Lee
-  - Christopher Rushton
-  - Sandra E. Spencer Miko
-  - Karen L. Mungall
-  - Andrew J. Mungall
-  - Shane Colborne
-  - Ryan D. Morin
-  - Jonathan M. Loree
-  - Marco A. Marra
-  - Daniel J. Renouf
-  - Gregg B. Morin
-  - David F. Schaeffer
-  - Sharon M. Gorski
-  publisher: Cancer Research
-  date: '2020-11-13'
-  link: https://doi.org/gtf2d7
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
@@ -6838,8 +6544,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2144/btn-2018-0148
-  title: A high-throughput protocol for isolating cell-free circulating tumor DNA
-    from peripheral blood
+  title: A High-Throughput Protocol for Isolating Cell-Free Circulating Tumor DNA
+    from Peripheral Blood
   authors:
   - Pawan K Pandoh
   - Richard D Corbett
@@ -13438,48 +13144,6 @@
   publisher: Cell
   date: '2018-04-01'
   link: https://doi.org/gc7r87
-  orcid: 0000-0001-7146-7175
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/350280
-  title: Childhood Cerebellar Tumors Mirror Conserved Fetal Transcriptional Programs
-  authors:
-  - Maria C Vladoiu
-  - Ibrahim El-Hamamy
-  - Laura K Donovan
-  - Hamza Farooq
-  - Borja L Holgado
-  - Vijay Ramaswamy
-  - Stephen C Mack
-  - John JY Lee
-  - Sachin Kumar
-  - David Przelicki
-  - Antony Michealraj
-  - Kyle Juraschka
-  - Patryk Skowron
-  - Betty Luu
-  - Hiromichi Suzuki
-  - A Sorana Morrissy
-  - Florence MG Cavalli
-  - Livia Garzia
-  - Craig Daniels
-  - Xiaochong Wu
-  - Maleeha A Qazi
-  - Sheila K Singh
-  - Jennifer A Chan
-  - Marco A Marra
-  - David Malkin
-  - Peter Dirks
-  - Trevor Pugh
-  - Faiyaz Notta
-  - Claudia L Kleinman
-  - Alexandra Joyner
-  - Nada Jabado
-  - Lincoln Stein
-  - Michael D. Taylor
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-06-19'
-  link: https://doi.org/gkxddh
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
   file: orcid.yaml
@@ -31546,7 +31210,7 @@
   file: orcid.yaml
 - id: doi:10.1101/mcs.a001628
   title: Genomic profiling of pelvic genital type leiomyosarcoma in a woman with a
-    germline <i>CHEK2</i>:c.1100delC mutation and a concomitant diagnosis of metastatic
+    germline<i>CHEK2</i>:c.1100delC mutation and a concomitant diagnosis of metastatic
     invasive ductal breast carcinoma
   authors:
   - My Linh Thibodeau
@@ -34505,9 +34169,6 @@
   - "J\xE9r\xF4me Bertherat"
   - Martin Fassnacht
   - David A. Wheeler
-  - Gary D. Hammer
-  - Thomas J. Giordano
-  - Roel G.W. Verhaak
   - Siyuan Zheng
   - Roel G.W. Verhaak
   - Thomas J. Giordano
@@ -34734,6 +34395,9 @@
   - John N. Weinstein
   - Sam Meier
   - Timothy Defreitas
+  - Gary D. Hammer
+  - Thomas J. Giordano
+  - Roel G.W. Verhaak
   publisher: Cancer Cell
   date: '2016-08-01'
   link: https://doi.org/f8kqv6
@@ -40079,7 +39743,7 @@
   - Colette Breuil
   - Steven JM Jones
   publisher: Genome Biology
-  date: '2009-01-01'
+  date: '2009-09-11'
   link: https://doi.org/c58z6c
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
@@ -40868,8 +40532,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2144/000112900
-  title: Profiling the HeLa S3 transcriptome using randomly primed cDNA and massively
-    parallel short-read sequencing
+  title: Profiling the HeLa S3 Transcriptome using Randomly Primed cDNA and Massively
+    Parallel Short-Read Sequencing
   authors:
   - Ryan D. Morin
   - Matthew Bainbridge
@@ -40949,7 +40613,7 @@
   - Collin Collins
   - Marco Marra
   publisher: Genome Biology
-  date: '2007-01-01'
+  date: '2007-10-22'
   link: https://doi.org/cr7njw
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
@@ -41035,7 +40699,7 @@
   - George Yang
   - Shaying Zhao
   publisher: Genome Biology
-  date: '2007-01-01'
+  date: '2007-08-14'
   link: https://doi.org/c45f98
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
@@ -41357,7 +41021,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/GB-2006-7-12-R126
-  title: ''
+  title: Identification of ciliary and ciliopathy genes in Caenorhabditis elegansthrough
+    comparative genomics
   authors:
   - Nansheng Chen
   - Allan Mah
@@ -41379,7 +41044,7 @@
   - David L Baillie
   - Lincoln D Stein
   publisher: Genome Biology
-  date: '2006-01-01'
+  date: '2006-12-22'
   link: https://doi.org/fvqck8
   orcid: 0000-0001-7146-7175
   plugin: orcid.py
@@ -42351,7 +42016,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.2144/05385ST01
-  title: Management and visualization of whole genome shotgun assemblies using SAM
+  title: Management and Visualization of Whole Genome Shotgun Assemblies Using SAM
   authors:
   - "Ren\xE9 L. Warren"
   - Yaron S. Butterfield
@@ -44039,6 +43704,7 @@
   file: orcid.yaml
 - id: wosuid:WOS:000083500200002
   title: A public database for gene expression in human cancers
+  authors: []
   publisher: Cancer Research
   date: '2024-01-27'
   link: https://publons.com/wos-op/publon/5944704/
@@ -44338,6 +44004,7 @@
 - id: wosuid:WOS:000081241400005
   title: 'The CMT2D locus: refined genetic position and construction of a bacterial
     clone-based physical map'
+  authors: []
   publisher: Genome Research
   date: '2024-01-27'
   link: https://publons.com/wos-op/publon/8072709/
