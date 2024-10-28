@@ -2,7 +2,7 @@
 name: Diane Trinh
 image: images/headshot_Diane.png
 description: Staff Scientist
-role: staff
+role: wetlab
 links:
   email: dtrinh@bcgsc.ca
 aliases:

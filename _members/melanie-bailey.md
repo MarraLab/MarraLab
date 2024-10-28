@@ -2,7 +2,7 @@
 name: Melanie
 image: images/headshot_Melanie.png
 description: Research Associate
-role: ra
+role: wetlab
 links:
   email: mbaileyn@bcgsc.ca
 ---

@@ -2,7 +2,7 @@
 name: Susanna Chan
 image: images/headshot_Susanna.png
 description: Assistant Production Coordinator
-role: staff
+role: wetlab
 links:
   email: schan@bcgsc.ca
 ---
