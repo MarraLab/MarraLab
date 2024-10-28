@@ -11,7 +11,7 @@ Graduate students in the MATCH lab are in the [UBC Bioinformatics Training Progr
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="name: Marco Marra" %}
+{% include list.html data="members" component="portrait" filters="name: Dr. Marco Marra, PhD, FRS(C), FCAHS, OBC" %}
 {% include list.html data="members" component="portrait" filters="name: Diane Trinh" %}
 {% include list.html data="members" component="portrait" filters="name: Susanna Chan" %}
 {% include list.html data="members" component="portrait" filters="name: Dan Jin" %}
