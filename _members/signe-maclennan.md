@@ -2,7 +2,7 @@
 name: Signe Maclennan
 image: images/headshot_Signe.png
 description: PhD Candidate
-role: phd
+role: student
 links:
   email: smaclennan@bcgsc.ca
 ---

@@ -2,7 +2,7 @@
 name: Crystal Shan
 image: images/headshot_Crystal.png
 description: Undergraduate Co-op Student
-role: phd
+role: student
 links:
   email: cshan@bcgsc.ca
 ---

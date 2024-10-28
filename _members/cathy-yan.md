@@ -2,7 +2,7 @@
 name: Cathy Yan
 image: images/headshot_Cathy.png
 description: PhD Candidate
-role: phd
+role: student
 links:
   email: cyan@bcgsc.ca
 aliases:

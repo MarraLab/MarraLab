@@ -2,7 +2,7 @@
 name: Dan Jin
 image: images/headshot_Dan.jpeg
 description: Research Associate
-role: ra
+role: drylab
 links:
   email: djin@bcgsc.ca
 aliases:

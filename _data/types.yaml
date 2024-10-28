@@ -6,33 +6,23 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-staff:
+wetlab:
   icon: fa-solid fa-vial
-  description: Staff
+  description: Wet lab staff
 
-ra:
-  icon: fa-solid fa-glasses
-  description: Research Associate
+drylab:
+  icon: fa-solid fa-computer
+  description: Dry lab staff
 
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
-phd:
+student:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: Student
 
-msc:
-  icon: fa-solid fa-graduation-cap
-  description: MSc Student
 
-undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
-
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
 
 mascot:
   icon: fa-solid fa-dog

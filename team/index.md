@@ -12,6 +12,7 @@ Graduate students in the MATCH lab are in the [UBC Bioinformatics Training Progr
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
+{% include list.html data="members" component="portrait" filters="name: Diane Trinh" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
