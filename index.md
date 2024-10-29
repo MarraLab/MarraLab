@@ -71,7 +71,7 @@ Browse our projects to see what the MATCH labbies are passionate about.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Marco_ubc_photo1.jpg"
   link="projects"
   title="Our Projects"
   flip=true
