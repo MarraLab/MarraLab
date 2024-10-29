@@ -1085,6 +1085,23 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:35205656
+  title: Cost-Effectiveness of Molecularly Guided Treatment in Diffuse Large B-Cell
+    Lymphoma (DLBCL) in Patients under 60.
+  authors:
+  - Dean A Regier
+  - Brandon Chan
+  - Sarah Costa
+  - David W Scott
+  - Christian Steidl
+  - Joseph M Connors
+  - Aly Karsan
+  - Marco A Marra
+  - Robert Kridel
+  - Ian Cromwell
+  - Samantha Pollard
+  publisher: Cancers
+  date: '2022-02-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35205656
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1459,6 +1476,35 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:34149808
+  title: A Scalable Strand-Specific Protocol Enabling Full-Length Total RNA Sequencing
+    From Single Cells.
+  authors:
+  - Simon Haile
+  - Richard D Corbett
+  - Veronique G LeBlanc
+  - Lisa Wei
+  - Stephen Pleasance
+  - Steve Bilobram
+  - Ka Ming Nip
+  - Kirstin Brown
+  - Eva Trinh
+  - Jillian Smith
+  - Diane L Trinh
+  - Miruna Bala
+  - Eric Chuah
+  - Robin J N Coope
+  - Richard A Moore
+  - Andrew J Mungall
+  - Karen L Mungall
+  - Yongjun Zhao
+  - Martin Hirst
+  - Samuel Aparicio
+  - Inanc Birol
+  - Steven J M Jones
+  - Marco A Marra
+  publisher: Frontiers in genetics
+  date: '2021-06-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/34149808
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1555,6 +1601,110 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:33741928
+  title: The transcriptional landscape of Shh medulloblastoma.
+  authors:
+  - Patryk Skowron
+  - Hamza Farooq
+  - Florence M G Cavalli
+  - A Sorana Morrissy
+  - Michelle Ly
+  - Liam D Hendrikse
+  - Evan Y Wang
+  - Haig Djambazian
+  - Helen Zhu
+  - Karen L Mungall
+  - Quang M Trinh
+  - Tina Zheng
+  - Shizhong Dai
+  - Ana S Guerreiro Stucklin
+  - Maria C Vladoiu
+  - Vernon Fong
+  - Borja L Holgado
+  - Carolina Nor
+  - Xiaochong Wu
+  - Diala Abd-Rabbo
+  - "Pierre B\xE9rub\xE9"
+  - Yu Chang Wang
+  - Betty Luu
+  - Raul A Suarez
+  - Avesta Rastan
+  - Aaron H Gillmor
+  - John J Y Lee
+  - Xiao Yun Zhang
+  - Craig Daniels
+  - Peter Dirks
+  - David Malkin
+  - Eric Bouffet
+  - Uri Tabori
+  - James Loukides
+  - "Fran\xE7ois P Doz"
+  - Franck Bourdeaut
+  - Olivier O Delattre
+  - Julien Masliah-Planchon
+  - Olivier Ayrault
+  - Seung-Ki Kim
+  - David Meyronet
+  - Wieslawa A Grajkowska
+  - Carlos G Carlotti
+  - Carmen de Torres
+  - Jaume Mora
+  - Charles G Eberhart
+  - Erwin G Van Meir
+  - Toshihiro Kumabe
+  - Pim J French
+  - Johan M Kros
+  - Nada Jabado
+  - Boleslaw Lach
+  - Ian F Pollack
+  - Ronald L Hamilton
+  - Amulya A Nageswara Rao
+  - Caterina Giannini
+  - James M Olson
+  - "L\xE1szl\xF3 Bogn\xE1r"
+  - Almos Klekner
+  - Karel Zitterbart
+  - Joanna J Phillips
+  - Reid C Thompson
+  - Michael K Cooper
+  - Joshua B Rubin
+  - Linda M Liau
+  - "Mikl\xF3s Garami"
+  - Peter Hauser
+  - Kay Ka Wai Li
+  - Ho-Keung Ng
+  - Wai Sang Poon
+  - G Yancey Gillespie
+  - Jennifer A Chan
+  - Shin Jung
+  - Roger E McLendon
+  - Eric M Thompson
+  - David Zagzag
+  - Rajeev Vibhakar
+  - Young Shin Ra
+  - Maria Luisa Garre
+  - "Ulrich Sch\xFCller"
+  - Tomoko Shofuda
+  - Claudia C Faria
+  - "Enrique L\xF3pez-Aguilar"
+  - Gelareh Zadeh
+  - Chi-Chung Hui
+  - Vijay Ramaswamy
+  - Swneke D Bailey
+  - Steven J Jones
+  - Andrew J Mungall
+  - Richard A Moore
+  - John A Calarco
+  - Lincoln D Stein
+  - Gary D Bader
+  - "J\xFCri Reimand"
+  - Jiannis Ragoussis
+  - William A Weiss
+  - Marco A Marra
+  - Hiromichi Suzuki
+  - Michael D Taylor
+  publisher: Nature communications
+  date: '2021-03-19'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33741928
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1797,6 +1947,41 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:33020472
+  title: Glioma-derived IL-33 orchestrates an inflammatory brain tumor microenvironment
+    that accelerates glioma progression.
+  authors:
+  - Astrid De Boeck
+  - Bo Young Ahn
+  - Charlotte D'Mello
+  - Xueqing Lun
+  - Shyam V Menon
+  - Mana M Alshehri
+  - Frank Szulzewsky
+  - Yaoqing Shen
+  - Lubaba Khan
+  - Ngoc Ha Dang
+  - Elliott Reichardt
+  - Kimberly-Ann Goring
+  - Jennifer King
+  - Cameron J Grisdale
+  - Natalie Grinshtein
+  - Dolores Hambardzumyan
+  - Karlyne M Reilly
+  - Michael D Blough
+  - J Gregory Cairncross
+  - V Wee Yong
+  - Marco A Marra
+  - Steven J M Jones
+  - David R Kaplan
+  - Kathy D McCoy
+  - Eric C Holland
+  - Pinaki Bose
+  - Jennifer A Chan
+  - Stephen M Robbins
+  - Donna L Senger
+  publisher: Nature communications
+  date: '2020-10-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33020472
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -1902,6 +2087,44 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:32747824
+  title: Analysis of Ugandan cervical carcinomas identifies human papillomavirus clade-specific
+    epigenome and transcriptome landscapes.
+  authors:
+  - Alessia Gagliardi
+  - Vanessa L Porter
+  - Zusheng Zong
+  - Reanne Bowlby
+  - Emma Titmuss
+  - Constance Namirembe
+  - Nicholas B Griner
+  - Hilary Petrello
+  - Jay Bowen
+  - Simon K Chan
+  - Luka Culibrk
+  - Teresa M Darragh
+  - Mark H Stoler
+  - Thomas C Wright
+  - Patee Gesuwan
+  - Maureen A Dyer
+  - Yussanne Ma
+  - Karen L Mungall
+  - Steven J M Jones
+  - Carolyn Nakisige
+  - Karen Novik
+  - Jackson Orem
+  - Martin Origa
+  - Julie M Gastier-Foster
+  - Robert Yarchoan
+  - Corey Casper
+  - Gordon B Mills
+  - Janet S Rader
+  - Akinyemi I Ojesina
+  - Daniela S Gerhard
+  - Andrew J Mungall
+  - Marco A Marra
+  publisher: Nature genetics
+  date: '2020-08-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32747824
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -2017,6 +2240,36 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:32518206
+  title: Endogenous Retrovirus Transcript Levels Are Associated with Immunogenic Signatures
+    in Multiple Metastatic Cancer Types.
+  authors:
+  - James T Topham
+  - Emma Titmuss
+  - Erin D Pleasance
+  - Laura M Williamson
+  - Joanna M Karasinska
+  - Luka Culibrk
+  - Michael K C Lee
+  - Shehara Mendis
+  - Robert E Denroche
+  - Gun-Ho Jang
+  - Steve E Kalloger
+  - Hui-Li Wong
+  - Richard A Moore
+  - Andrew J Mungall
+  - Grainne M O'Kane
+  - Jennifer J Knox
+  - Steven Gallinger
+  - Jonathan M Loree
+  - Dixie L Mager
+  - Janessa Laskin
+  - Marco A Marra
+  - Steven J M Jones
+  - David F Schaeffer
+  - Daniel J Renouf
+  publisher: Molecular cancer therapeutics
+  date: '2020-06-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32518206
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -2242,6 +2495,69 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:32094924
+  title: TMEM30A loss-of-function mutations drive lymphomagenesis and confer therapeutically
+    exploitable vulnerability in B-cell lymphoma.
+  authors:
+  - Daisuke Ennishi
+  - Shannon Healy
+  - Ali Bashashati
+  - Saeed Saberi
+  - Christoffer Hother
+  - Anja Mottok
+  - Fong Chun Chan
+  - Lauren Chong
+  - Libin Abraham
+  - Robert Kridel
+  - Merrill Boyle
+  - Barbara Meissner
+  - Tomohiro Aoki
+  - Katsuyoshi Takata
+  - Bruce W Woolcock
+  - "Elena Vigan\xF2"
+  - Michael Gold
+  - Laurie L Molday
+  - Robert S Molday
+  - Adele Telenius
+  - Michael Y Li
+  - Nicole Wretham
+  - Nancy Dos Santos
+  - Mark Wong
+  - Natasja N Viller
+  - Robert A Uger
+  - Gerben Duns
+  - Abigail Baticados
+  - Angel Madero
+  - Brianna N Bristow
+  - Pedro Farinha
+  - Graham W Slack
+  - Susana Ben-Neriah
+  - Daniel Lai
+  - Allen W Zhang
+  - Sohrab Salehi
+  - Hennady P Shulha
+  - Derek S Chiu
+  - Sara Mostafavi
+  - Alina S Gerrie
+  - Da Wei Huang
+  - Christopher Rushton
+  - Diego Villa
+  - Laurie H Sehn
+  - Kerry J Savage
+  - Andrew J Mungall
+  - Andrew P Weng
+  - Marcel B Bally
+  - Ryan D Morin
+  - Gabriela V Cohen Freue
+  - Louis M Staudt
+  - Joseph M Connors
+  - Marco A Marra
+  - Sohrab P Shah
+  - Randy D Gascoyne
+  - David W Scott
+  - Christian Steidl
+  publisher: Nature medicine
+  date: '2020-02-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32094924
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -3463,6 +3779,48 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:30275490
+  title: Genome-wide discovery of somatic regulatory variants in diffuse large B-cell
+    lymphoma.
+  authors:
+  - Sarah E Arthur
+  - Aixiang Jiang
+  - Bruno M Grande
+  - Miguel Alcaide
+  - Razvan Cojocaru
+  - Christopher K Rushton
+  - Anja Mottok
+  - Laura K Hilton
+  - Prince Kumar Lat
+  - Eric Y Zhao
+  - Luka Culibrk
+  - Daisuke Ennishi
+  - Selin Jessa
+  - Lauren Chong
+  - Nicole Thomas
+  - Prasath Pararajalingam
+  - Barbara Meissner
+  - Merrill Boyle
+  - Jordan Davidson
+  - Kevin R Bushell
+  - Daniel Lai
+  - Pedro Farinha
+  - Graham W Slack
+  - Gregg B Morin
+  - Sohrab Shah
+  - Dipankar Sen
+  - Steven J M Jones
+  - Andrew J Mungall
+  - Randy D Gascoyne
+  - Timothy E Audas
+  - Peter Unrau
+  - Marco A Marra
+  - Joseph M Connors
+  - Christian Steidl
+  - David W Scott
+  - Ryan D Morin
+  publisher: Nature communications
+  date: '2018-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/30275490
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4446,6 +4804,30 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:28602946
+  title: Whole-genome analysis reveals unexpected dynamics of mutant subclone development
+    in a patient with JAK2-V617F-positive chronic myeloid leukemia.
+  authors:
+  - Ivan Sloma
+  - Maria Teresa Mitjavila-Garcia
+  - Olivier Feraud
+  - Frank Griscelli
+  - Noufissa Oudrhiri
+  - Sanaa El Marsafy
+  - Emilie Gobbo
+  - Dominique Divers
+  - Alexis Proust
+  - David M Smadja
+  - Christophe Desterke
+  - Annaick Carles
+  - Yusanna Ma
+  - Martin Hirst
+  - Marco A Marra
+  - Connie J Eaves
+  - Annelise Bennaceur-Griscelli
+  - Ali G Turhan
+  publisher: Experimental hematology
+  date: '2017-06-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28602946
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -4811,6 +5193,20 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:28295365
+  title: Comparative transcriptome analysis of isogenic cell line models and primary
+    cancers links capicua (CIC) loss to activation of the MAPK signalling cascade.
+  authors:
+  - Veronique G LeBlanc
+  - Marlo Firme
+  - Jungeun Song
+  - Susanna Y Chan
+  - Min Hye Lee
+  - Stephen Yip
+  - Suganthi Chittaranjan
+  - Marco A Marra
+  publisher: The Journal of pathology
+  date: '2017-04-26'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28295365
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5117,6 +5513,46 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:27182968
+  title: Divergent modes of clonal spread and intraperitoneal mixing in high-grade
+    serous ovarian cancer.
+  authors:
+  - Andrew McPherson
+  - Andrew Roth
+  - Emma Laks
+  - Tehmina Masud
+  - Ali Bashashati
+  - Allen W Zhang
+  - Gavin Ha
+  - Justina Biele
+  - Damian Yap
+  - Adrian Wan
+  - Leah M Prentice
+  - Jaswinder Khattra
+  - Maia A Smith
+  - Cydney B Nielsen
+  - Sarah C Mullaly
+  - Steve Kalloger
+  - Anthony Karnezis
+  - Karey Shumansky
+  - Celia Siu
+  - Jamie Rosner
+  - Hector Li Chan
+  - Julie Ho
+  - Nataliya Melnyk
+  - Janine Senz
+  - Winnie Yang
+  - Richard Moore
+  - Andrew J Mungall
+  - Marco A Marra
+  - "Alexandre Bouchard-C\xF4t\xE9"
+  - C Blake Gilks
+  - David G Huntsman
+  - Jessica N McAlpine
+  - Samuel Aparicio
+  - Sohrab P Shah
+  publisher: Nature genetics
+  date: '2016-05-16'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/27182968
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5631,6 +6067,27 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:26621726
+  title: Reversion to an embryonic alternative splicing program enhances leukemia
+    stem cell self-renewal.
+  authors:
+  - Frida Holm
+  - Eva Hellqvist
+  - Cayla N Mason
+  - Shawn A Ali
+  - Nathaniel Delos-Santos
+  - Christian L Barrett
+  - Hye-Jung Chun
+  - Mark D Minden
+  - Richard A Moore
+  - Marco A Marra
+  - Valeria Runza
+  - Kelly A Frazer
+  - Anil Sadarangani
+  - Catriona H M Jamieson
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2015-11-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26621726
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -5917,6 +6374,14 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:26404381
+  title: 'Next-Generation Sequencing Approaches in Cancer: Where Have They Brought
+    Us and Where Will They Take Us?'
+  authors:
+  - Veronique G LeBlanc
+  - Marco A Marra
+  publisher: Cancers
+  date: '2015-09-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26404381
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -6028,6 +6493,31 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:26173781
+  title: Integrative genomic analysis of ghost cell odontogenic carcinoma.
+  authors:
+  - Pinaki Bose
+  - Erin D Pleasance
+  - Martin Jones
+  - Yaoqing Shen
+  - Carolyn Ch'ng
+  - Caralyn Reisle
+  - Jacqueline E Schein
+  - Andrew J Mungall
+  - Richard Moore
+  - Yussanne Ma
+  - Brandon S Sheffield
+  - Thomas Thomson
+  - Steven Rasmussen
+  - Tony Ng
+  - Stephen Yip
+  - Christopher W Lee
+  - Cheryl Ho
+  - Janessa Laskin
+  - Marco A Marra
+  - Steven J Jones
+  publisher: Oral oncology
+  date: '2015-07-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26173781
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -6435,6 +6925,31 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:25798586
+  title: 'Personalized oncogenomics: clinical experience with malignant peritoneal
+    mesothelioma using whole genome sequencing.'
+  authors:
+  - Brandon S Sheffield
+  - Anna V Tinker
+  - Yaoqing Shen
+  - Harry Hwang
+  - Hector H Li-Chang
+  - Erin Pleasance
+  - Carolyn Ch'ng
+  - Amy Lum
+  - Julie Lorette
+  - Yarrow J McConnell
+  - Sophie Sun
+  - Steven J M Jones
+  - Allen M Gown
+  - David G Huntsman
+  - David F Schaeffer
+  - Andrew Churg
+  - Stephen Yip
+  - Janessa Laskin
+  - Marco A Marra
+  publisher: PloS one
+  date: '2015-03-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25798586
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -7083,6 +7598,38 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:24802772
+  title: A transgenic mouse model demonstrating the oncogenic role of mutations in
+    the polycomb-group gene EZH2 in lymphomagenesis.
+  authors:
+  - Tobias Berg
+  - Silvia Thoene
+  - Damian Yap
+  - Tracee Wee
+  - Nathalie Schoeler
+  - Patty Rosten
+  - Emilia Lim
+  - Misha Bilenky
+  - Andrew J Mungall
+  - Thomas Oellerich
+  - Sherry Lee
+  - Courteney K Lai
+  - Patricia Umlandt
+  - Anisa Salmi
+  - Harry Chang
+  - Lisa Yue
+  - David Lai
+  - S-W Grace Cheng
+  - Ryan D Morin
+  - Martin Hirst
+  - Hubert Serve
+  - Marco A Marra
+  - Gregg B Morin
+  - Randy D Gascoyne
+  - Samuel A Aparicio
+  - R Keith Humphries
+  publisher: Blood
+  date: '2014-05-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24802772
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -7181,6 +7728,46 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:24336570
+  title: Mutational analysis reveals the origin and therapy-driven evolution of recurrent
+    glioma.
+  authors:
+  - Brett E Johnson
+  - Tali Mazor
+  - Chibo Hong
+  - Michael Barnes
+  - Koki Aihara
+  - Cory Y McLean
+  - Shaun D Fouse
+  - Shogo Yamamoto
+  - Hiroki Ueda
+  - Kenji Tatsuno
+  - Saurabh Asthana
+  - Llewellyn E Jalbert
+  - Sarah J Nelson
+  - Andrew W Bollen
+  - W Clay Gustafson
+  - Elise Charron
+  - William A Weiss
+  - Ivan V Smirnov
+  - Jun S Song
+  - Adam B Olshen
+  - Soonmee Cha
+  - Yongjun Zhao
+  - Richard A Moore
+  - Andrew J Mungall
+  - Steven J M Jones
+  - Martin Hirst
+  - Marco A Marra
+  - Nobuhito Saito
+  - Hiroyuki Aburatani
+  - Akitake Mukasa
+  - Mitchel S Berger
+  - Susan M Chang
+  - Barry S Taylor
+  - Joseph F Costello
+  publisher: Science (New York, N.Y.)
+  date: '2013-12-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24336570
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -8922,6 +9509,36 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:21262841
+  title: Genome and transcriptome analyses of the mountain pine beetle-fungal symbiont
+    Grosmannia clavigera, a lodgepole pine pathogen.
+  authors:
+  - Scott DiGuistini
+  - Ye Wang
+  - Nancy Y Liao
+  - Greg Taylor
+  - Philippe Tanguay
+  - Nicolas Feau
+  - Bernard Henrissat
+  - Simon K Chan
+  - Uljana Hesse-Orce
+  - Sepideh Massoumi Alamouti
+  - Clement K M Tsui
+  - Roderick T Docking
+  - Anthony Levasseur
+  - Sajeet Haridas
+  - Gordon Robertson
+  - Inanc Birol
+  - Robert A Holt
+  - Marco A Marra
+  - Richard C Hamelin
+  - Martin Hirst
+  - Steven J M Jones
+  - "J\xF6rg Bohlmann"
+  - Colette Breuil
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2011-01-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21262841
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -9261,6 +9878,37 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:20835245
+  title: Alternative expression analysis by RNA sequencing.
+  authors:
+  - Malachi Griffith
+  - Obi L Griffith
+  - Jill Mwenifumbo
+  - Rodrigo Goya
+  - A Sorana Morrissy
+  - Ryan D Morin
+  - Richard Corbett
+  - Michelle J Tang
+  - Ying-Chen Hou
+  - Trevor J Pugh
+  - Gordon Robertson
+  - Suganthi Chittaranjan
+  - Adrian Ally
+  - Jennifer K Asano
+  - Susanna Y Chan
+  - Haiyan I Li
+  - Helen McDonald
+  - Kevin Teague
+  - Yongjun Zhao
+  - Thomas Zeng
+  - Allen Delaney
+  - Martin Hirst
+  - Gregg B Morin
+  - Steven J M Jones
+  - Isabella T Tai
+  - Marco A Marra
+  publisher: Nature methods
+  date: '2010-09-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20835245
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -9437,6 +10085,29 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:20544841
+  title: High resolution analysis of follicular lymphoma genomes reveals somatic recurrent
+    sites of copy-neutral loss of heterozygosity and copy number alterations that
+    target single genes.
+  authors:
+  - K-John J Cheung
+  - Allen Delaney
+  - Susana Ben-Neriah
+  - Jacquie Schein
+  - Tang Lee
+  - Sohrab P Shah
+  - Dorothy Cheung
+  - Nathalie A Johnson
+  - Andrew J Mungall
+  - Adele Telenius
+  - Betty Lai
+  - Merrill Boyle
+  - Joseph M Connors
+  - Randy D Gascoyne
+  - Marco A Marra
+  - Douglas E Horsman
+  publisher: Genes, chromosomes & cancer
+  date: '2010-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20544841
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -9554,6 +10225,14 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:20010593
+  title: A first look at entire human methylomes.
+  authors:
+  - Joseph F Costello
+  - Martin Krzywinski
+  - Marco A Marra
+  publisher: Nature biotechnology
+  date: '2009-12-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/20010593
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -9688,6 +10367,138 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:19767417
+  title: The completion of the Mammalian Gene Collection (MGC).
+  authors:
+  - Gary Temple
+  - Daniela S Gerhard
+  - Rebekah Rasooly
+  - Elise A Feingold
+  - Peter J Good
+  - Cristen Robinson
+  - Allison Mandich
+  - Jeffrey G Derge
+  - Jeanne Lewis
+  - Debonny Shoaf
+  - Francis S Collins
+  - Wonhee Jang
+  - Lukas Wagner
+  - Carolyn M Shenmen
+  - Leonie Misquitta
+  - Carl F Schaefer
+  - Kenneth H Buetow
+  - Tom I Bonner
+  - Linda Yankie
+  - Ming Ward
+  - Lon Phan
+  - Alex Astashyn
+  - Garth Brown
+  - Catherine Farrell
+  - Jennifer Hart
+  - Melissa Landrum
+  - Bonnie L Maidak
+  - Michael Murphy
+  - Terence Murphy
+  - Bhanu Rajput
+  - Lillian Riddick
+  - David Webb
+  - Janet Weber
+  - Wendy Wu
+  - Kim D Pruitt
+  - Donna Maglott
+  - Adam Siepel
+  - Brona Brejova
+  - Mark Diekhans
+  - Rachel Harte
+  - Robert Baertsch
+  - Jim Kent
+  - David Haussler
+  - Michael Brent
+  - Laura Langton
+  - Charles L G Comstock
+  - Michael Stevens
+  - Chaochun Wei
+  - Marijke J van Baren
+  - Kourosh Salehi-Ashtiani
+  - Ryan R Murray
+  - Lila Ghamsari
+  - Elizabeth Mello
+  - Chenwei Lin
+  - Christa Pennacchio
+  - Kirsten Schreiber
+  - Nicole Shapiro
+  - Amber Marsh
+  - Elizabeth Pardes
+  - Troy Moore
+  - Anita Lebeau
+  - Mike Muratet
+  - Blake Simmons
+  - David Kloske
+  - Stephanie Sieja
+  - James Hudson
+  - Praveen Sethupathy
+  - Michael Brownstein
+  - Narayan Bhat
+  - Joseph Lazar
+  - Howard Jacob
+  - Chris E Gruber
+  - Mark R Smith
+  - John McPherson
+  - Angela M Garcia
+  - Preethi H Gunaratne
+  - Jiaqian Wu
+  - Donna Muzny
+  - Richard A Gibbs
+  - Alice C Young
+  - Gerard G Bouffard
+  - Robert W Blakesley
+  - Jim Mullikin
+  - Eric D Green
+  - Mark C Dickson
+  - Alex C Rodriguez
+  - Jane Grimwood
+  - Jeremy Schmutz
+  - Richard M Myers
+  - Martin Hirst
+  - Thomas Zeng
+  - Kane Tse
+  - Michelle Moksa
+  - Merinda Deng
+  - Kevin Ma
+  - Diana Mah
+  - Johnson Pang
+  - Greg Taylor
+  - Eric Chuah
+  - Athena Deng
+  - Keith Fichter
+  - Anne Go
+  - Stephanie Lee
+  - Jing Wang
+  - Malachi Griffith
+  - Ryan Morin
+  - Richard A Moore
+  - Michael Mayo
+  - Sarah Munro
+  - Susan Wagner
+  - Steven J M Jones
+  - Robert A Holt
+  - Marco A Marra
+  - Sun Lu
+  - Shuwei Yang
+  - James Hartigan
+  - Marcus Graf
+  - Ralf Wagner
+  - Stanley Letovksy
+  - Jacqueline C Pulido
+  - Keith Robison
+  - Dominic Esposito
+  - James Hartley
+  - Vanessa E Wall
+  - Ralph F Hopkins
+  - Osamu Ohara
+  - Stefan Wiemann
+  publisher: Genome research
+  date: '2009-09-18'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19767417
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -9756,6 +10567,27 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:19638463
+  title: Sequence variant discovery in DNA repair genes from radiosensitive and radiotolerant
+    prostate brachytherapy patients.
+  authors:
+  - Trevor J Pugh
+  - Mira Keyes
+  - Lorena Barclay
+  - Allen Delaney
+  - Martin Krzywinski
+  - Dallas Thomas
+  - Karen Novik
+  - Cindy Yang
+  - Alexander Agranovich
+  - Michael McKenzie
+  - W Jim Morris
+  - Peggy L Olive
+  - Marco A Marra
+  - Richard A Moore
+  publisher: 'Clinical cancer research : an official journal of the American Association
+    for Cancer Research'
+  date: '2009-07-28'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19638463
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -9846,6 +10678,18 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:19449402
+  title: A novel de novo 1.1 Mb duplication of 17q21.33 associated with cognitive
+    impairment and other anomalies.
+  authors:
+  - Farah R Zahir
+  - Sylvie Langlois
+  - Kim Gall
+  - Patrice Eydoux
+  - Marco A Marra
+  - Jan M Friedman
+  publisher: American journal of medical genetics. Part A
+  date: '2009-06-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19449402
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -10386,6 +11230,28 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:18611952
+  title: Global analysis of in vivo Foxa2-binding sites in mouse adult liver using
+    massively parallel sequencing.
+  authors:
+  - Elizabeth D Wederell
+  - Mikhail Bilenky
+  - Rebecca Cullum
+  - Nina Thiessen
+  - Melis Dagpinar
+  - Allen Delaney
+  - Richard Varhol
+  - YongJun Zhao
+  - Thomas Zeng
+  - Bridget Bernier
+  - Matthew Ingham
+  - Martin Hirst
+  - Gordon Robertson
+  - Marco A Marra
+  - Steven Jones
+  - Pamela A Hoodless
+  publisher: Nucleic acids research
+  date: '2008-07-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18611952
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -10728,6 +11594,43 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:17570852
+  title: LongSAGE profiling of nine human embryonic stem cell lines.
+  authors:
+  - Martin Hirst
+  - Allen Delaney
+  - Sean A Rogers
+  - Angelique Schnerch
+  - Deryck R Persaud
+  - Michael D O'Connor
+  - Thomas Zeng
+  - Michelle Moksa
+  - Keith Fichter
+  - Diana Mah
+  - Anne Go
+  - Ryan D Morin
+  - Agnes Baross
+  - Yongjun Zhao
+  - Jaswinder Khattra
+  - Anna-Liisa Prabhu
+  - Pawan Pandoh
+  - Helen McDonald
+  - Jennifer Asano
+  - Noreen Dhalla
+  - Kevin Ma
+  - Stephanie Lee
+  - Adrian Ally
+  - Neil Chahal
+  - Stephanie Menzies
+  - Asim Siddiqui
+  - Robert Holt
+  - Steven Jones
+  - Daniela S Gerhard
+  - James A Thomson
+  - Connie J Eaves
+  - Marco A Marra
+  publisher: Genome biology
+  date: '2007-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17570852
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -11228,6 +12131,37 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:17135571
+  title: Large-scale production of SAGE libraries from microdissected tissues, flow-sorted
+    cells, and cell lines.
+  authors:
+  - Jaswinder Khattra
+  - Allen D Delaney
+  - Yongjun Zhao
+  - Asim Siddiqui
+  - Jennifer Asano
+  - Helen McDonald
+  - Pawan Pandoh
+  - Noreen Dhalla
+  - Anna-Liisa Prabhu
+  - Kevin Ma
+  - Stephanie Lee
+  - Adrian Ally
+  - Angela Tam
+  - Danne Sa
+  - Sean Rogers
+  - David Charest
+  - Jeff Stott
+  - Scott Zuyderduyn
+  - Richard Varhol
+  - Connie Eaves
+  - Steven Jones
+  - Robert Holt
+  - Martin Hirst
+  - Pamela A Hoodless
+  - Marco A Marra
+  publisher: Genome research
+  date: '2006-11-29'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17135571
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -11560,6 +12494,50 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:16909388
+  title: Oligonucleotide microarray analysis of genomic imbalance in children with
+    mental retardation.
+  authors:
+  - J M Friedman
+  - Agnes Baross
+  - Allen D Delaney
+  - Adrian Ally
+  - Laura Arbour
+  - Linlea Armstrong
+  - Jennifer Asano
+  - Dione K Bailey
+  - Sarah Barber
+  - Patricia Birch
+  - Mabel Brown-John
+  - Manqiu Cao
+  - Susanna Chan
+  - David L Charest
+  - Noushin Farnoud
+  - Nicole Fernandes
+  - Stephane Flibotte
+  - Anne Go
+  - William T Gibson
+  - Robert A Holt
+  - Steven J M Jones
+  - Giulia C Kennedy
+  - Martin Krzywinski
+  - Sylvie Langlois
+  - Haiyan I Li
+  - Barbara C McGillivray
+  - Tarun Nayar
+  - Trevor J Pugh
+  - Evica Rajcan-Separovic
+  - Jacqueline E Schein
+  - Angelique Schnerch
+  - Asim Siddiqui
+  - Margot I Van Allen
+  - Gary Wilson
+  - Siu-Li Yong
+  - Farah Zahir
+  - Patrice Eydoux
+  - Marco A Marra
+  publisher: American journal of human genetics
+  date: '2006-07-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16909388
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -11631,6 +12609,61 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:16672307
+  title: Sequencing and analysis of 10,967 full-length cDNA clones from Xenopus laevis
+    and Xenopus tropicalis reveals post-tetraploidization transcriptome remodeling.
+  authors:
+  - Ryan D Morin
+  - Elbert Chang
+  - Anca Petrescu
+  - Nancy Liao
+  - Malachi Griffith
+  - William Chow
+  - Robert Kirkpatrick
+  - Yaron S Butterfield
+  - Alice C Young
+  - Jeffrey Stott
+  - Sarah Barber
+  - Ryan Babakaiff
+  - Mark C Dickson
+  - Corey Matsuo
+  - David Wong
+  - George S Yang
+  - Duane E Smailus
+  - Keith D Wetherby
+  - Peggy N Kwong
+  - Jane Grimwood
+  - Charles P Brinkley
+  - Mabel Brown-John
+  - Natalie D Reddix-Dugue
+  - Michael Mayo
+  - Jeremy Schmutz
+  - Jaclyn Beland
+  - Morgan Park
+  - Susan Gibson
+  - Teika Olson
+  - Gerard G Bouffard
+  - Miranda Tsai
+  - Ruth Featherstone
+  - Steve Chand
+  - Asim S Siddiqui
+  - Wonhee Jang
+  - Ed Lee
+  - Steven L Klein
+  - Robert W Blakesley
+  - Barry R Zeeberg
+  - Sudarshan Narasimhan
+  - John N Weinstein
+  - Christa Prange Pennacchio
+  - Richard M Myers
+  - Eric D Green
+  - Lukas Wagner
+  - Daniela S Gerhard
+  - Marco A Marra
+  - Steven J M Jones
+  - Robert A Holt
+  publisher: Genome research
+  date: '2006-05-03'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16672307
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -11757,6 +12790,23 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:16339895
+  title: A high-resolution whole-genome cattle-human comparative map reveals details
+    of mammalian chromosome evolution.
+  authors:
+  - Annelie Everts-van der Wind
+  - Denis M Larkin
+  - Cheryl A Green
+  - Janice S Elliott
+  - Colleen A Olmstead
+  - Readman Chiu
+  - Jacqueline E Schein
+  - Marco A Marra
+  - James E Womack
+  - Harris A Lewin
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2005-12-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16339895
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -11828,6 +12878,30 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:15916950
+  title: Functional genomics of the cilium, a sensory organelle.
+  authors:
+  - Oliver E Blacque
+  - Elliot A Perens
+  - Keith A Boroevich
+  - Peter N Inglis
+  - Chunmei Li
+  - Adam Warner
+  - Jaswinder Khattra
+  - Rob A Holt
+  - Guangshuo Ou
+  - Allan K Mah
+  - Sheldon J McKay
+  - Peter Huang
+  - Peter Swoboda
+  - Steve J M Jones
+  - Marco A Marra
+  - David L Baillie
+  - Donald G Moerman
+  - Shai Shaham
+  - Michel R Leroux
+  publisher: 'Current biology : CB'
+  date: '2005-05-24'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/15916950
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -12420,6 +13494,36 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:14962987
+  title: 'Development and application of a salmonid EST database and cDNA microarray:
+    data mining and interspecific hybridization characteristics.'
+  authors:
+  - Matthew L Rise
+  - Kristian R von Schalburg
+  - Gordon D Brown
+  - Melanie A Mawer
+  - Robert H Devlin
+  - Nathanael Kuipers
+  - Maura Busby
+  - Marianne Beetz-Sargent
+  - Roberto Alberto
+  - A Ross Gibbs
+  - Peter Hunt
+  - Robert Shukin
+  - Jeffrey A Zeznik
+  - Colleen Nelson
+  - Simon R M Jones
+  - Duane E Smailus
+  - Steven J M Jones
+  - Jacqueline E Schein
+  - Marco A Marra
+  - Yaron S N Butterfield
+  - Jeff M Stott
+  - Siemon H S Ng
+  - William S Davidson
+  - Ben F Koop
+  publisher: Genome research
+  date: '2004-02-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/14962987
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -12635,6 +13739,14 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:12743019
+  title: Assessment of SAGE in transcript identification.
+  authors:
+  - Erin D Pleasance
+  - Marco A Marra
+  - Steven J M Jones
+  publisher: Genome research
+  date: '2003-05-12'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12743019
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
@@ -12747,6 +13859,96 @@
   plugin: pubmed.py
   file: pubmed.yaml
 - id: pubmed:12477932
+  title: Generation and initial analysis of more than 15,000 full-length human and
+    mouse cDNA sequences.
+  authors:
+  - Robert L Strausberg
+  - Elise A Feingold
+  - Lynette H Grouse
+  - Jeffery G Derge
+  - Richard D Klausner
+  - Francis S Collins
+  - Lukas Wagner
+  - Carolyn M Shenmen
+  - Gregory D Schuler
+  - Stephen F Altschul
+  - Barry Zeeberg
+  - Kenneth H Buetow
+  - Carl F Schaefer
+  - Narayan K Bhat
+  - Ralph F Hopkins
+  - Heather Jordan
+  - Troy Moore
+  - Steve I Max
+  - Jun Wang
+  - Florence Hsieh
+  - Luda Diatchenko
+  - Kate Marusina
+  - Andrew A Farmer
+  - Gerald M Rubin
+  - Ling Hong
+  - Mark Stapleton
+  - M Bento Soares
+  - Maria F Bonaldo
+  - Tom L Casavant
+  - Todd E Scheetz
+  - Michael J Brownstein
+  - Ted B Usdin
+  - Shiraki Toshiyuki
+  - Piero Carninci
+  - Christa Prange
+  - Sam S Raha
+  - Naomi A Loquellano
+  - Garrick J Peters
+  - Rick D Abramson
+  - Sara J Mullahy
+  - Stephanie A Bosak
+  - Paul J McEwan
+  - Kevin J McKernan
+  - Joel A Malek
+  - Preethi H Gunaratne
+  - Stephen Richards
+  - Kim C Worley
+  - Sarah Hale
+  - Angela M Garcia
+  - Laura J Gay
+  - Stephen W Hulyk
+  - Debbie K Villalon
+  - Donna M Muzny
+  - Erica J Sodergren
+  - Xiuhua Lu
+  - Richard A Gibbs
+  - Jessica Fahey
+  - Erin Helton
+  - Mark Ketteman
+  - Anuradha Madan
+  - Stephanie Rodrigues
+  - Amy Sanchez
+  - Michelle Whiting
+  - Anup Madan
+  - Alice C Young
+  - Yuriy Shevchenko
+  - Gerard G Bouffard
+  - Robert W Blakesley
+  - Jeffrey W Touchman
+  - Eric D Green
+  - Mark C Dickson
+  - Alex C Rodriguez
+  - Jane Grimwood
+  - Jeremy Schmutz
+  - Richard M Myers
+  - Yaron S N Butterfield
+  - Martin I Krzywinski
+  - Ursula Skalska
+  - Duane E Smailus
+  - Angelique Schnerch
+  - Jacqueline E Schein
+  - Steven J M Jones
+  - Marco A Marra
+  publisher: Proceedings of the National Academy of Sciences of the United States
+    of America
+  date: '2002-12-11'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/12477932
   term: Marco A Marra[Author]
   plugin: pubmed.py
   file: pubmed.yaml
