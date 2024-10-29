@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Below is a list of published manuscripts from the MATCH lab and collaborations involving Dr. Marco Marra. Please excuse any errors generated during the automated process.
 
 {% include section.html %}
 
