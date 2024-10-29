@@ -1,5 +1,5 @@
 ---
-name: Vanessa Porter
+name: Dr. Vanessa Porter
 image: images/headshot_Vanessa.jpeg
 description: Postdoctoral Fellow
 role: postdoc

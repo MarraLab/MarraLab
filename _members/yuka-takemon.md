@@ -1,5 +1,5 @@
 ---
-name: Yuka Takemon
+name: Dr. Yuka Takemon
 image: images/headshot_Yuka.png
 description: Research Associate
 role: drylab

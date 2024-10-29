@@ -1,5 +1,5 @@
 ---
-name: Michelle Ng
+name: Dr. Michelle Ng
 image: images/headshot_Michelle.png
 description: Postdoctoral Fellow
 role: postdoc
