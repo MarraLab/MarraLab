@@ -1,7 +1,7 @@
 ---
 name: Vanessa Porter
 image: images/headshot_Vanessa.jpeg
-description: PhD Candidate
+description: Postdoctoral Fellow
 role: postdoc
 links:
   email: vporter@bcgsc.ca

@@ -1,6 +1,7 @@
 ---
 name: Dr. Marco Marra, PhD, FRS(C), FCAHS, OBC
 image: images/headshot_Marco.png 
+description: Principal Investigator
 role: pi
 aliases:
   - M.A. Marra
