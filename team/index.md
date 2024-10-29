@@ -33,7 +33,7 @@ We welcome inquires from prospective trainees who have demonstrated outstanding 
 {% include list.html data="members" component="portrait" filters="name: Dr. Vanessa Porter" %}
 {% include list.html data="members" component="portrait" filters="name: Dr. Michelle Ng" %}
 {% include list.html data="members" component="portrait" filters="name: Cathy Yan" %}
-{% include list.html data="members" component="portrait" filters="name: Signe Maclennan" %}
+{% include list.html data="members" component="portrait" filters="name: Signe MacLennan" %}
 {% include list.html data="members" component="portrait" filters="name: Crystal Shan" %}
 
 {% include section.html %}
