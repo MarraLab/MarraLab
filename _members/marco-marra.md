@@ -27,6 +27,7 @@ Dr. Marco Marra has been instrumental in bringing genome science to Canada, work
 Dr. Marra has demonstrated the pivotal role that genomics can play in human health and disease research, including through contributions to the Human Genome Project, leading the sequencing of the SARS coronavirus genome and first proof-of-concept study demonstrating the effective use of whole genome analyses in personalized cancer medicine. His research has uncovered new cancer mutations, candidate biomarkers and therapeutic targets, and has been instrumental in demonstrating the functional interplay between the cancer genome and epigenome. Since 2014, he has been named as among the World’s Most Influential Scientific Minds with more than 500 scientific publications, placing him in the top one per cent of cited scientists in his discipline worldwide. 
 
 Download Dr. Marra's [complete CV](documents/Marra_CV.pdf) 
+
 Download Dr. Marra's [breif biosketch](documents/Marra_biosketch.pdf)
 
 ## Affiliations
