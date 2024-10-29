@@ -57,7 +57,7 @@ See our latest pre-prints and publications from our lab and collaborations.
 
 {% capture text %}
 
-Browse the projects that the MATCH labbies are passionate about.
+Browse our projects to see what the MATCH labbies are passionate about.
 
 {%
   include button.html
