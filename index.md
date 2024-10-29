@@ -1,6 +1,13 @@
 ---
 ---
 
+{% 
+  include section.html 
+  image="mages/lab_photo_2024_long.jpg"
+  size="full"
+  dark=true
+%}
+
 # Multiomic Analysis of Treatment Resistance and Cancer Heterogeneity (**MATCH**) Lab
 
 **Our Vision**
@@ -50,7 +57,7 @@ See our latest pre-prints and publications from our lab and collaborations.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Browse our projects to see what the MATCH labbies are passionate about.
 
 {%
   include button.html
@@ -75,7 +82,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Meet the MATCH team members who drive our vision and reserach.
+Meet the MATCH team members who drive our vision and research.
 
 {%
   include button.html
