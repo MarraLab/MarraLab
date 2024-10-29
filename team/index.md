@@ -38,4 +38,4 @@ We welcome inquires from prospective trainees who have demonstrated outstanding 
 
 {% include section.html %}
 
-Dr. Marra has trained many highly skilled undergraduate students, graduate students, and post doc fellows over the years. A complete list of alumni and their current activities and be found in his [complete CV](documents/Marra_CV.pdf).
+Dr. Marra has trained many highly skilled undergraduate students, graduate students, and post doc fellows over the years. A complete list of alumni and their current activities and be found in his [complete CV](https://github.com/MarraLab/marralab/blob/main/documents/Marra_CV.pdf).
