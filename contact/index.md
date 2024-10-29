@@ -18,7 +18,7 @@ We welcome inquires from prospective trainees who have demonstrated outstanding 
 
 {% include section.html %}
 
-<iframe src="https://maps.app.goo.gl/aYs5Uz7wV1Kmcwov8" width="640" height="480"></iframe>
+<iframe width="600" height="450" style="border:0" loading="lazy" allowfullscreen src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJB9OkHrZyhlQRSq6_OoUSIGw&key=AIzaSyCoJbwqiyF-pC9fwFDnVVgRiBI7xsRUxs8"></iframe>
 
 {% include section.html dark=true %}
 
