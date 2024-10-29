@@ -36,6 +36,6 @@ Dr. Marco Marra is the UBC Canada Research Chair in Genome Science, a member of 
 
 He was elected to the Canadian Academy of Health Sciences in 2009, received the Frontiers in Research Award from the BC Innovation Council in 2008, was appointed a Fellow of the Royal Society of Canada in 2007, and was inducted into the Canadian Medical Hall of Fame in 2019. He was a recipient of a Genome BC Award for Scientific Excellence, a MSFHR Career Investigator Senior Scholar Award, and the Simon Fraser University President’s 40th Anniversary Award. In 2004, he received a Terry Fox Young Investigator Award and BC Biotech’s Innovation and Achievement Award (together with the staff of Canada’s Michael Smith Genome Sciences Centre) for sequencing the SARS coronavirus genome. His contributions to genome science led to an honorary Doctor of Science degree from Simon Fraser University in 2004, and an honorary Doctor of Law degree from the University of Calgary in 2005.
 
-Download Dr. Marra's [complete CV](documents/Marra_CV.pdf) 
+Download Dr. Marra's [complete CV](https://github.com/MarraLab/marralab/blob/main/documents/Marra_CV.pdf) 
 
-Download Dr. Marra's [breif biosketch](documents/Marra_biosketch.pdf)
+Download Dr. Marra's [breif biosketch](https://github.com/MarraLab/marralab/blob/main/documents/Marra_biosketch.pdf)
