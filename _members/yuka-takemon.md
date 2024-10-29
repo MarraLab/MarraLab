@@ -7,4 +7,17 @@ links:
   email: ytakemon@bcgsc.ca
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Hometown:** Chiba, Japan
+
+
+**Academic & professional history**
+
+
+
+**What project(s) do you work?**
+
+
+
+**How do you spend your time outside of the lab?**
+
+I am typically out walking my dog (Olie) in Pacific Spirit Park or on local beaches, cooking, and teaching coding workshops with [RLadies Vancouver](https://www.meetup.com/rladies-vancouver/) and [The Carpentries](https://carpentries.org/). 

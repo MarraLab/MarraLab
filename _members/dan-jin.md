@@ -10,4 +10,15 @@ aliases:
   - Dan Jin
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+**Hometown:** 
+
+
+**Academic & professional history**
+
+
+
+**What project(s) do you work?**
+
+
+
+**How do you spend your time outside of the lab?**
