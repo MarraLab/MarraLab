@@ -1,12 +1,11 @@
 ---
 ---
 
-{% 
-  include section.html 
-  image="mages/lab_photo_2024_long.jpg"
-  size="full"
-  dark=true
-%}
+{% include section.html size="full" %}
+
+{% include figure.html image="images/lab_photo_2024_long.jpg" width="100%" %}
+
+{% include section.html %}
 
 # Multiomic Analysis of Treatment Resistance and Cancer Heterogeneity (**MATCH**) Lab
 
