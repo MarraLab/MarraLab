@@ -7,65 +7,19 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We welcome inquires from prospective trainees who have demonstrated outstanding academic history and motivation for research. Please email Dr. Marra for potential opportunities.
 
 {%
   include button.html
   type="email"
-  text="mmarra@bcgsc.ca"
+  text="Contact us"
   link="mmarra@bcgsc.ca"
-%}
-{%
-  include button.html
-  type="address"
-  tooltip="Our location on Google Maps for easy navigation"
-  link="https://maps.app.goo.gl/mYzbuQ9kYC8jVDAFA"
 %}
 
 {% include section.html %}
 
-{% capture col1 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% capture col2 %}
-
-{%
-  include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
-%}
-
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 %}
+<iframe src="https://maps.app.goo.gl/aYs5Uz7wV1Kmcwov8" width="640" height="480"></iframe>
 
 {% include section.html dark=true %}
 
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
+The MATCH lab is privileged to be conducting research on UBC's Vancouver Point Grey campus, which is located on the traditional, ancestral, and unceded territory of the xwməθkwəy̓əm (Musqueam) People. [Learn more](http://aboriginal.ubc.ca/community-youth/musqueam-and-ubc/) about UBC’s connection to the land and its relationship with the Musqueam Nation.
