@@ -5,10 +5,14 @@ description: Principal Investigator
 role: pi
 aliases:
   - M.A. Marra
+  - M. A. Marra
   - MA. Marra
   - M. Marra
   - M Marra
   - MA Marra
+  - Marco A. Marra
+  - Marco A Marra
+  
 links:
   home-page: https://www.bcgsc.ca/people/marco-marra
   email: mmarra@bcgsc.ca
@@ -21,6 +25,9 @@ links:
 Dr. Marco Marra has been instrumental in bringing genome science to Canada, working across diverse programs of research that have addressed pressing problems and key opportunities of relevance to Canada and Canadians. He has spent much of his career leading teams to conduct large-scale, high-throughput genomics projects with the aim of comprehensive identification of the gentic changes that drive cancer. He believes that better integration of informatics and biology in genome analysis and a strong interface between the lab and the clinic can change outcomes for cancer patients. 
 
 Dr. Marra has demonstrated the pivotal role that genomics can play in human health and disease research, including through contributions to the Human Genome Project, leading the sequencing of the SARS coronavirus genome and first proof-of-concept study demonstrating the effective use of whole genome analyses in personalized cancer medicine. His research has uncovered new cancer mutations, candidate biomarkers and therapeutic targets, and has been instrumental in demonstrating the functional interplay between the cancer genome and epigenome. Since 2014, he has been named as among the World’s Most Influential Scientific Minds with more than 500 scientific publications, placing him in the top one per cent of cited scientists in his discipline worldwide. 
+
+Download Dr. Marra's [complete CV](documents/Marra_CV.pdf) 
+Download Dr. Marra's [breif biosketch](documents/Marra_biosketch.pdf)
 
 ## Affiliations
 - Professor, Department of Medical Genetics, Faculty of Medicine, University of British Columbia 
