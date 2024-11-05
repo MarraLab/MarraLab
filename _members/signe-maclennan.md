@@ -12,7 +12,7 @@ links:
 
 **Academic & professional history**
 
-Signe (she/her) obtained her BSc in Health Sciences from SFU in 2021 and during her undergraduate degree she contributed to research involving spiders and HIV in the Gries and Brumme labs. Signe joined the Marra Lab as a graduate student in 2021.
+Signe (she/her) obtained her BSc in Health Sciences from SFU in 2021 and during her undergraduate degree she contributed to research involving spiders and HIV in the Gries and Brumme labs. Signe joined the MATCH Lab as a graduate student in 2021.
 
 
 **What project(s) do you work on?**

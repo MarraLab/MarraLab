@@ -1,5 +1,5 @@
 ---
-name: Dr. Rachel Wong
+name: Dr. Rachel Wong, PhD
 image: images/headshot_Rachel.png
 description: Research Associate
 role: drylab

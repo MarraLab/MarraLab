@@ -23,15 +23,15 @@ We welcome inquires from prospective trainees who have demonstrated outstanding 
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="name: Dr. Marco Marra, PhD, FRS(C), FCAHS, OBC" %}
+{% include list.html data="members" component="portrait" filters="name: Dr. Marco Marra, OBC, PhD, FRS(C), FCAHS" %}
 {% include list.html data="members" component="portrait" filters="name: Diane Trinh" %}
 {% include list.html data="members" component="portrait" filters="name: Susanna Chan" %}
-{% include list.html data="members" component="portrait" filters="name: Dr. Dan Jin" %}
-{% include list.html data="members" component="portrait" filters="name: Dr. Yuka Takemon" %}
-{% include list.html data="members" component="portrait" filters="name: Dr. Melanie Bailey" %}
-{% include list.html data="members" component="portrait" filters="name: Dr. Rachel Wong" %}
-{% include list.html data="members" component="portrait" filters="name: Dr. Vanessa Porter" %}
-{% include list.html data="members" component="portrait" filters="name: Dr. Michelle Ng" %}
+{% include list.html data="members" component="portrait" filters="name: Dr. Dan Jin, PhD" %}
+{% include list.html data="members" component="portrait" filters="name: Dr. Yuka Takemon, PhD" %}
+{% include list.html data="members" component="portrait" filters="name: Dr. Melanie Bailey, PhD" %}
+{% include list.html data="members" component="portrait" filters="name: Dr. Rachel Wong, PhD" %}
+{% include list.html data="members" component="portrait" filters="name: Dr. Vanessa Porter, PhD" %}
+{% include list.html data="members" component="portrait" filters="name: Dr. Michelle Ng, PhD" %}
 {% include list.html data="members" component="portrait" filters="name: Cathy Yan" %}
 {% include list.html data="members" component="portrait" filters="name: Signe MacLennan" %}
 {% include list.html data="members" component="portrait" filters="name: Crystal Shan" %}
