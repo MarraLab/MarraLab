@@ -3,7 +3,7 @@
 
 {% include section.html size="full" %}
 
-{% include figure.html image="images/lab_photo_2024_long.jpg" width="100%" %}
+{% include figure.html image="images/lab_photo_2024_long.jpg" width="60%" %}
 
 {% include section.html %}
 
