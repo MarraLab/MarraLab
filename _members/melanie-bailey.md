@@ -1,5 +1,5 @@
 ---
-name: Dr. Melanie Bailey
+name: Dr. Melanie Bailey, PhD
 image: images/headshot_Melanie.png
 description: Research Associate
 role: wetlab

@@ -1,5 +1,5 @@
 ---
-name: Dr. Dan Jin
+name: Dr. Dan Jin, PhD
 image: images/headshot_Dan.jpeg
 description: Research Associate
 role: drylab
