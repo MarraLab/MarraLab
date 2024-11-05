@@ -3,6 +3,9 @@ name: Dr. Yuka Takemon, PhD
 image: images/headshot_Yuka.png
 description: Research Associate
 role: drylab
+aliases:
+  - Y. Takemon
+  - Yuka Takemon
 links:
   email: ytakemon@bcgsc.ca
 ---
