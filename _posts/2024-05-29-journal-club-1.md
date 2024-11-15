@@ -1,6 +1,6 @@
 ---
 title: Journal Club 1
-author: yuka-takemon
+author: Guest
 tags:
   - Cell cycle
   - TNBC
