@@ -1,6 +1,6 @@
 ---
 title: Journal Club 2
-author: Guest
+author: signe-maclennan
 tags:
   - DNA sequencing
   - Epigenetics
