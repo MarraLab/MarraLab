@@ -17,7 +17,7 @@ nav:
 6. The Personalized Approaches in the Treatment of Head and Neck Cancers (PATH) study.
 7. Single nucleus multi-omics for precision cancer genomic medicine. 
 
-To see which team member is associated with the above projects, please check out out [Team](https://marralab.github.io/marralab/team/) page
+To see which team member is associated with the above projects, please check out our [Team](https://marralab.github.io/marralab/team/) page
 
 {% include tags.html tags="publication, resource, website" %}
 
