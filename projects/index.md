@@ -33,9 +33,8 @@ To see which team member is associated with the above projects, please check out
   link="https://github.com/ytakemon/GRETTA/"
   title="GRETTA"
   subtitle="Genetic inteRaction and EssenTiality neTwork mApper"
-  description="An R package for mapping genetic interaction and essentiality networks. [Takemon and Marra. Bioinformatics. 2023.](https://doi.org/10.1093/bioinformatics/btad381)"
+  description="An R package for mapping genetic interaction and essentiality networks. [Takemon and Marra. Bioinformatics. 2023.](https://doi.org/10.1093/bioinformatics/btad381)."
   tags="Genetic interaction, Synthetic lethality, R package"
-  repo="ytakemon/GRETTA"
 %}
 
 {%
@@ -43,13 +42,20 @@ To see which team member is associated with the above projects, please check out
   image="https://github.com/bcgsc/TMBur/blob/master/TMB2.png"
   link="https://github.com/bcgsc/TMBur"
   title="TMBur"
-  description="A distributable tumor mutation burden approach for whole genome sequencing. [Titmuss, et al. BMC Medical Genomics. 2022.](https://doi.org/10.1186/s12920-022-01348-z)"
+  description="A distributable tumor mutation burden approach for whole genome sequencing. [Titmuss, et al. BMC Medical Genomics. 2022.](https://doi.org/10.1186/s12920-022-01348-z)."
   tags="Tumor mutation burden, Whole genome and transcriptome analysis, Immune checkpoint inhibitors, Singularity container"
-  repo="bcgsc/TMBur"
 %}
 
 {% include section.html %}
 
 ## More
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{%
+  include card.html
+  image="images/photo.jpg"
+  link="https://github.com/MarraLab/VPorter_HPV_integration"
+  title="HPV integration caller workflow"
+  description="A collection of workflows for calling HPV integration with long and short-read sequencing."
+  tags="HPV integration calling, long-read sequencing, short-read sequencing"
+  style = "small"
+%}
