@@ -25,11 +25,13 @@ We welcome inquires from prospective trainees who have demonstrated outstanding 
 
 {% include list.html data="members" component="portrait" filters="name: Dr. Marco Marra, OBC, PhD, FRS(C), FCAHS" %}
 {% include list.html data="members" component="portrait" filters="name: Diane Trinh" %}
-{% include list.html data="members" component="portrait" filters="name: Susanna Chan" %}
-{% include list.html data="members" component="portrait" filters="name: Dr. Dan Jin, PhD" %}
 {% include list.html data="members" component="portrait" filters="name: Dr. Yuka Takemon, PhD" %}
+{% include list.html data="members" component="portrait" filters="name: Dr. Dan Jin, PhD" %}
 {% include list.html data="members" component="portrait" filters="name: Dr. Melanie Bailey, PhD" %}
 {% include list.html data="members" component="portrait" filters="name: Dr. Rachel Wong, PhD" %}
+{% include list.html data="members" component="portrait" filters="name: Richard Corbett" %}
+{% include list.html data="members" component="portrait" filters="name: Susanna Chan" %}
+{% include list.html data="members" component="portrait" filters="name: Paul Habington" %}
 {% include list.html data="members" component="portrait" filters="name: Dr. Vanessa Porter, PhD" %}
 {% include list.html data="members" component="portrait" filters="name: Dr. Michelle Ng, PhD" %}
 {% include list.html data="members" component="portrait" filters="name: Cathy Yan" %}
