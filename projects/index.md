@@ -29,7 +29,7 @@ To see which team member is associated with the above projects, please check out
 
 {%
   include card.html
-  image="https://github.com/ytakemon/GRETTA/blob/main/GRETTA_hex_logo-02.png"
+  image="images/GRETTA_hex_logo-02.png"
   link="https://github.com/ytakemon/GRETTA/"
   title="GRETTA"
   subtitle="Genetic inteRaction and EssenTiality neTwork mApper"
@@ -39,7 +39,7 @@ To see which team member is associated with the above projects, please check out
 
 {%
   include card.html
-  image="https://github.com/bcgsc/TMBur/blob/master/TMB2.png"
+  image="images/TMB2.png"
   link="https://github.com/bcgsc/TMBur"
   title="TMBur"
   description="A distributable tumor mutation burden approach for whole genome sequencing. [Titmuss, et al. BMC Medical Genomics. 2022.](https://doi.org/10.1186/s12920-022-01348-z)."

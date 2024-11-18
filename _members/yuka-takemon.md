@@ -1,7 +1,7 @@
 ---
 name: Dr. Yuka Takemon, PhD
 image: images/headshot_Yuka.png
-description: Research Associate
+description: Research Associate & Computational Manager
 role: drylab
 aliases:
   - Y. Takemon
