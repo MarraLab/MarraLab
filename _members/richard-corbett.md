@@ -1,6 +1,6 @@
 ---
 name: Richard Corbett
-image: images/photo.jpg
+image: images/headshot_Richard.jpg
 description: Bioinformatics Scientist
 role: drylab
 links:
