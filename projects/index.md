@@ -59,3 +59,14 @@ To see which team member is associated with the above projects, please check out
   tags="HPV integration calling, long-read sequencing, short-read sequencing"
   style = "small"
 %}
+
+{%
+  include card.html
+  image="https://svn.bcgsc.ca/bitbucket/projects/RCORBETT/repos/rico/browse/Rico_Figure3.png"
+  link="https://svn.bcgsc.ca/bitbucket/projects/RCORBETT/repos/rico/browse"
+  title="RICO"
+  subtitle="Rna-seq Immune COntainer"
+  description="Immune profiling from RNA-seq data. Uses STAR/RSEM, and immunedeconv to provide estimates of cell populations in short read RNA-Seq data."
+  tags="RNA-seq, nextflow, immune profile"
+  style = "small"
+%}
