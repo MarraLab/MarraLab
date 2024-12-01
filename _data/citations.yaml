@@ -1,5 +1,34 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39578878
+  title: Mapping in silico genetic networks of the KMT2D tumour suppressor gene to
+    uncover novel functional associations and cancer cell vulnerabilities.
+  authors:
+  - Yuka Takemon
+  - Erin D Pleasance
+  - Alessia Gagliardi
+  - Christopher S Hughes
+  - Veronika Csizmok
+  - Kathleen Wee
+  - Diane L Trinh
+  - Ryan D Huff
+  - Andrew J Mungall
+  - Richard A Moore
+  - Eric Chuah
+  - Karen L Mungall
+  - Eleanor Lewis
+  - Jessica Nelson
+  - Howard J Lim
+  - Daniel J Renouf
+  - Steven Jm Jones
+  - Janessa Laskin
+  - Marco A Marra
+  publisher: Genome medicine
+  date: '2024-11-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39578878
+  term: Marco A Marra[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39406235
   title: Long-read sequencing of an advanced cancer cohort resolves rearrangements,
     unravels haplotypes, and reveals methylation landscapes.
