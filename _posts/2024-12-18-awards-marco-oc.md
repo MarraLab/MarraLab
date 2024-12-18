@@ -10,12 +10,12 @@ tags:
 {%
   include figure.html
   image="images/Marco_OC.jpg"
-  caption="Dr. Marco Marra. Credit: BC Cancer; from MSL annoucement"
+  caption="Dr Marco Marra O.C., O.B.C.. Credit: BC Cancer; from the UBC - MSL announcement"
   link="https://www.msl.ubc.ca/dr-marco-marra-appointed-officer-of-the-order-of-canada/"
   width="400px"
 %}
 
-The MATCH lab is thrilled to share new from Ottawa that Dr Marco A Marra O.C., O.B.C., has been made one of the 88 new appointments to the Order of Canada, including one Companion, 24 Officers and 63 Members. Three appointments are promotions within the Order.
+The MATCH lab is thrilled to share news from Ottawa that Dr Marco A Marra, O.C., O.B.C., has been made one of the 88 new appointments to the Order of Canada, including one Companion, 24 Officers, and 63 Members. Three appointments are promotions within the Order.
 
 The Order of Canada is the cornerstone of the Canadian Honours System and is one of Canada's highest honours. It recognizes people across all sectors of society who have made extraordinary and sustained contributions to our nation. This honour, bestowed upon over 7,600 Canadians since its creation in 1967, recognizes individuals who “make extraordinary contributions to the nation… their grit and passion inspire us, teach us and show us the way forward.” As the motto of the Order states: “DESIDERANTES MELIOREM PATRIAM (they desire a better country).”
 
