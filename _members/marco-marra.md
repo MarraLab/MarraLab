@@ -1,5 +1,5 @@
 ---
-name: Dr. Marco Marra, OBC, PhD, FRS(C), FCAHS
+name: Dr. Marco Marra, OC, OBC, PhD, FRS(C), FCAHS
 image: images/headshot_Marco.png 
 description: Principal Investigator
 role: pi
