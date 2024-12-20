@@ -1,5 +1,69 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: pubmed:39687742
+  title: Adaptable and comprehensive approaches for long-read nanopore sequencing
+    of polyadenylated and non-polyadenylated RNAs.
+  authors:
+  - Simon Haile
+  - Richard D Corbett
+  - Kieran O'Neill
+  - Jing Xu
+  - Duane E Smailus
+  - Pawan K Pandoh
+  - Anthony Bayega
+  - Miruna Bala
+  - Eric Chuah
+  - Robin J N Coope
+  - Richard A Moore
+  - Karen L Mungall
+  - Yongjun Zhao
+  - Yussanne Ma
+  - Marco A Marra
+  - Steven J M Jones
+  - Andrew J Mungall
+  publisher: Frontiers in genetics
+  date: '2024-12-02'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39687742
+  term: Marco A Marra[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
+- id: pubmed:39638560
+  title: Rearrangements of viral and human genomes at human papillomavirus integration
+    events and their allele-specific impacts on cancer genome regulation.
+  authors:
+  - Vanessa L Porter
+  - Michelle Ng
+  - Kieran O'Neill
+  - Signe MacLennan
+  - Richard D Corbett
+  - Luka Culibrk
+  - Zeid Hamadeh
+  - Marissa Iden
+  - Rachel Schmidt
+  - Shirng-Wern Tsaih
+  - Carolyn Nakisige
+  - Martin Origa
+  - Jackson Orem
+  - Glenn Chang
+  - Jeremy Fan
+  - Ka Ming Nip
+  - Vahid Akbari
+  - Simon K Chan
+  - James Hopkins
+  - Richard A Moore
+  - Eric Chuah
+  - Karen L Mungall
+  - Andrew J Mungall
+  - Inanc Birol
+  - Steven J M Jones
+  - Janet S Rader
+  - Marco A Marra
+  publisher: Genome research
+  date: '2024-12-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/39638560
+  term: Marco A Marra[Author]
+  plugin: pubmed.py
+  file: pubmed.yaml
 - id: pubmed:39578878
   title: Mapping in silico genetic networks of the KMT2D tumour suppressor gene to
     uncover novel functional associations and cancer cell vulnerabilities.
