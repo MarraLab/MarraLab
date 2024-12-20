@@ -4,7 +4,7 @@ subtitle: Michael Smith Laboratories, UBC
 description: Multiomic Analysis of Treatment Resistance and Cancer Heterogeneity
 header: images/MATCH_logo_light.svg
 footer: images/background.jpg
-header-dark: images/MATCH_logo_dark.svg
+header-dark: false
 footer-dark: true
 
 # site social media and other links
